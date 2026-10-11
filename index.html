@@ -4,23 +4,23 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Bruno Fitas</title>
-  <meta name="description" content="Bruno Fitas. Engineering, local learning, and a ranked guide to Claude Code skills and plugins.">
+  <meta name="description" content="Bruno Fitas. A ranked, filterable guide to Claude Code skills and plugins.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/style.css?v=3">
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css?v=4">
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
   <header class="site-header">
     <div class="wrap">
-      <a class="brand" href="index.html"><span class="dot"></span>Bruno Fitas</a>
+      <a class="brand" href="index.html">Bruno<b>Fitas</b></a>
       <nav class="nav" aria-label="Main">
         <a href="index.html" aria-current="page">Home</a>
         <a href="skills.html">Claude skills</a>
         <a href="about.html">About</a>
         <a href="contact.html">Contact</a>
-        <button class="theme-btn" type="button" aria-label="Toggle dark mode" title="Toggle theme">
+        <button class="theme-btn" type="button" aria-label="Switch light or dark theme">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
         </button>
       </nav>
@@ -28,50 +28,33 @@
   </header>
 
   <main class="wrap">
-    <section class="hero">
-      <p class="eyebrow">brunofitas.github.io</p>
-      <h1>Things I build, <em>and the tools</em> I build them with.</h1>
-      <p class="lede">A personal site. For now it holds one thing worth your time: every Claude Code skill and plugin in the directory, ranked by stars and filterable by tag. Blog and notes come later.</p>
-      <div class="cta">
-        <a class="btn primary" href="skills.html">Browse Claude skills
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
-        <a class="btn" href="about.html">About me</a>
+    <section class="home-hero">
+      <div>
+        <h1>Every Claude Code plugin, ranked.</h1>
+        <p class="lede">The whole Claude plugin directory in one place: thousands of skills, plugins and MCP servers, ordered by GitHub stars, with pictures and filters. Refreshed every night.</p>
+        <div class="cta">
+          <a class="btn primary" href="skills.html">Browse the ranking</a>
+          <a class="btn" href="skills.html?tag=official">Official plugins only</a>
+        </div>
+      </div>
+      <div class="board">
+        <header><strong>Top of the ranking</strong><span class="small" id="board-date"></span></header>
+        <ol id="board"></ol>
       </div>
     </section>
-
-    <section>
-      <div class="tiles" id="home-tiles">
-        <a class="tile" href="skills.html">
-          <div class="num" id="tile-count">...</div>
-          <div class="lbl">plugins and skills, ranked by GitHub stars</div>
-        </a>
-        <a class="tile" href="skills.html?tag=official">
-          <div class="num" id="tile-official">...</div>
-          <div class="lbl">official Anthropic plugins</div>
-        </a>
-        <a class="tile" href="skills.html?tag=community">
-          <div class="num" id="tile-community">...</div>
-          <div class="lbl">community plugins, skills and marketplaces</div>
-        </a>
-      </div>
+    <section class="home-facts">
+      <a class="fact" href="skills.html"><strong id="f-all">...</strong><span>entries in the directory</span></a>
+      <a class="fact" href="skills.html?tag=official"><strong id="f-official">...</strong><span>official Anthropic plugins</span></a>
+      <a class="fact" href="skills.html?tag=community"><strong id="f-community">...</strong><span>community plugins and skills</span></a>
+      <a class="fact" href="skills.html?tag=mcp"><strong id="f-mcp">...</strong><span>MCP servers and integrations</span></a>
     </section>
   </main>
-
   <footer class="site-footer">
     <div class="wrap">
       <span>Bruno Fitas</span>
       <span><a href="https://github.com/brunofitas">GitHub</a></span>
     </div>
   </footer>
-  <script src="assets/site.js?v=3"></script>
-  <script>
-    fetch("data/plugins.json").then(function (r) { return r.json(); }).then(function (d) {
-      var items = d.items || [];
-      var has = function (x, t) { return (x.tags || []).indexOf(t) >= 0; };
-      document.getElementById("tile-count").textContent = items.length;
-      document.getElementById("tile-official").textContent = items.filter(function (x) { return has(x, "official"); }).length;
-      document.getElementById("tile-community").textContent = items.filter(function (x) { return has(x, "community"); }).length;
-    }).catch(function () {});
-  </script>
+  <script src="assets/site.js?v=4"></script>
 </body>
 </html>
