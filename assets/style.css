@@ -152,7 +152,7 @@ code, .mono { font-family: var(--font-mono); font-size: .92em; }
   color: var(--ink-3); border: 1px solid var(--line); border-radius: 6px; padding: 3px 7px; white-space: nowrap;
 }
 .card .kind.official { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, transparent); background: var(--accent-soft); }
-.card p { margin: 0; color: var(--ink-2); font-size: 15.5px; }
+.card p { margin-top: 0; margin-bottom: 0; color: var(--ink-2); font-size: 15.5px; }
 .card .why { color: var(--ink); font-size: 15px; }
 .card .why::before { content: "\2192\00a0"; color: var(--accent); }
 .card .meta { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: auto; padding-top: 6px; font-size: 13.5px; color: var(--ink-3); }
@@ -267,3 +267,12 @@ body { overflow-x: hidden; }
 .card .install span { min-width: 0; }
 .featured .card::before { margin-top: 14px; }
 .featured .card > .cover { margin-top: 8px; }
+
+/* phone: the filter bar never covers the list; tags become one scrollable strip */
+@media (max-width: 640px) {
+  .filters { position: static; backdrop-filter: none; padding: 10px 0 12px; }
+  .filters .tags { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 4px; margin-left: -20px; margin-right: -20px; padding-left: 20px; padding-right: 20px; }
+  .filters .tags::-webkit-scrollbar { display: none; }
+  .filters .tag { flex: none; }
+  .card > * { margin-left: 16px; margin-right: 16px; }
+}
