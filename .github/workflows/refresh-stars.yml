@@ -1,0 +1,25 @@
+name: Refresh plugin stars
+
+on:
+  schedule:
+    - cron: "17 5 * * *"     # daily, 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild data/plugins.json with fresh GitHub stars
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build_plugins.py --refresh
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/plugins.json data/source/github-cache.json
+          git diff --cached --quiet && echo "no change" || git commit -m "data: refresh stars $(date -u +%F)" && git push

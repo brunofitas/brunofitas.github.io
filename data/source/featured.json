@@ -1,0 +1,878 @@
+[
+ {
+  "name": "frontend-design",
+  "slug": "frontend-design",
+  "author": "Anthropic",
+  "kind": "skill",
+  "summary": "Skill that steers Claude toward distinctive, production-grade UI instead of generic AI-looking interfaces.",
+  "why": "Stops the purple-gradient look and gets real design taste into generated UI.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/frontend-design",
+  "install": "/plugin install frontend-design@claude-plugins-official",
+  "tags": [
+   "official",
+   "design",
+   "frontend"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": true
+ },
+ {
+  "name": "feature-dev",
+  "slug": "feature-dev",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Guided feature development with codebase exploration, architecture design and quality review agents.",
+  "why": "A full explore, design, implement, review workflow in one command.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/feature-dev",
+  "install": "/plugin install feature-dev@claude-plugins-official",
+  "tags": [
+   "official",
+   "workflow",
+   "agents"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": true
+ },
+ {
+  "name": "code-review",
+  "slug": "code-review",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Automated pull request review using multiple specialised agents with confidence scoring.",
+  "why": "Parallel reviewers filter out false positives so comments are worth reading.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-review",
+  "install": "/plugin install code-review@claude-plugins-official",
+  "tags": [
+   "official",
+   "code-review",
+   "agents"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": true
+ },
+ {
+  "name": "pr-review-toolkit",
+  "slug": "pr-review-toolkit",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Review agents for comments, tests, error handling, type design and code quality on a PR.",
+  "why": "Six focused reviewers you can call individually or together.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/pr-review-toolkit",
+  "install": "/plugin install pr-review-toolkit@claude-plugins-official",
+  "tags": [
+   "official",
+   "code-review",
+   "testing"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "claude-security",
+  "slug": "claude-security",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Deep vulnerability scanning of your own code, run entirely inside Claude Code.",
+  "why": "Security audit of your repo without sending code to a third-party scanner.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-security",
+  "install": "/plugin install claude-security@claude-plugins-official",
+  "tags": [
+   "official",
+   "security",
+   "code-review"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "skill-creator",
+  "slug": "skill-creator",
+  "author": "Anthropic",
+  "kind": "skill",
+  "summary": "Create new skills, improve existing ones and measure skill performance with evals.",
+  "why": "Turns 'I keep repeating this' into a tested, reusable skill.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/skill-creator",
+  "install": "/plugin install skill-creator@claude-plugins-official",
+  "tags": [
+   "official",
+   "workflow",
+   "learning"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": true
+ },
+ {
+  "name": "plugin-dev",
+  "slug": "plugin-dev",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Toolkit for building Claude Code plugins: hooks, commands, agents, skills and MCP integration.",
+  "why": "Everything you need to write and ship your own plugin.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev",
+  "install": "/plugin install plugin-dev@claude-plugins-official",
+  "tags": [
+   "official",
+   "workflow",
+   "agents"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "ralph-loop",
+  "slug": "ralph-loop",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Runs Claude in a self-referential loop on one prompt until the task is done (Ralph Wiggum technique).",
+  "why": "The famous autonomous-iteration trick, packaged as a command.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-loop",
+  "install": "/plugin install ralph-loop@claude-plugins-official",
+  "tags": [
+   "official",
+   "automation",
+   "agents",
+   "workflow"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": true
+ },
+ {
+  "name": "hookify",
+  "slug": "hookify",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Create hooks from plain-language rules to block or warn on unwanted Claude behaviours.",
+  "why": "Write a sentence, get a guardrail, no hook scripting needed.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/hookify",
+  "install": "/plugin install hookify@claude-plugins-official",
+  "tags": [
+   "official",
+   "automation",
+   "workflow"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "claude-md-management",
+  "slug": "claude-md-management",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Audit and improve CLAUDE.md files and capture session learnings into them.",
+  "why": "Keeps your project memory file sharp as the codebase evolves.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-md-management",
+  "install": "/plugin install claude-md-management@claude-plugins-official",
+  "tags": [
+   "official",
+   "memory",
+   "docs"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "commit-commands",
+  "slug": "commit-commands",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Slash commands for the git workflow: commit, push and open a PR in one step.",
+  "why": "Cuts the commit-push-PR ritual down to a single command.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/commit-commands",
+  "install": "/plugin install commit-commands@claude-plugins-official",
+  "tags": [
+   "official",
+   "git",
+   "productivity"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "code-simplifier",
+  "slug": "code-simplifier",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Agent that simplifies and refines code for clarity, consistency and maintainability.",
+  "why": "A cleanup pass on fresh code that keeps behaviour intact.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-simplifier",
+  "install": "/plugin install code-simplifier@claude-plugins-official",
+  "tags": [
+   "official",
+   "code-review",
+   "productivity"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "security-guidance",
+  "slug": "security-guidance",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Hook that warns about risky patterns (injection, XSS, unsafe eval) as Claude edits files.",
+  "why": "Inline security reminders at the moment of the edit.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/security-guidance",
+  "install": "/plugin install security-guidance@claude-plugins-official",
+  "tags": [
+   "official",
+   "security"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "mcp-server-dev",
+  "slug": "mcp-server-dev",
+  "author": "Anthropic",
+  "kind": "plugin",
+  "summary": "Skills for designing and building MCP servers and apps.",
+  "why": "Fastest path from API idea to a working MCP server.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev",
+  "install": "/plugin install mcp-server-dev@claude-plugins-official",
+  "tags": [
+   "official",
+   "mcp",
+   "workflow"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "playwright",
+  "slug": "playwright",
+  "author": "Anthropic",
+  "kind": "mcp",
+  "summary": "Playwright browser automation MCP for testing and scraping from Claude Code.",
+  "why": "Claude drives a real browser to test your UI.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/playwright",
+  "install": "/plugin install playwright@claude-plugins-official",
+  "tags": [
+   "official",
+   "testing",
+   "web",
+   "mcp"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "Context7",
+  "slug": "context7",
+  "author": "Upstash",
+  "kind": "mcp",
+  "summary": "Up-to-date, version-specific library documentation pulled straight into the prompt.",
+  "why": "Ends hallucinated APIs by fetching current docs on demand.",
+  "url": "https://github.com/upstash/context7",
+  "install": "/plugin install context7@claude-plugins-official",
+  "tags": [
+   "mcp",
+   "docs",
+   "productivity",
+   "community"
+  ],
+  "stars": 62907,
+  "source": "https://github.com/upstash/context7 (GitHub API 2026-10-11); directory-cache.json review: partner",
+  "featured": true
+ },
+ {
+  "name": "GitHub",
+  "slug": "github",
+  "author": "GitHub",
+  "kind": "mcp",
+  "summary": "Official GitHub MCP server for repositories, issues, PRs and workflows.",
+  "why": "Manage issues and PRs without leaving the terminal.",
+  "url": "https://github.com/github/github-mcp-server",
+  "install": "/plugin install github@claude-plugins-official",
+  "tags": [
+   "mcp",
+   "git",
+   "devops"
+  ],
+  "stars": 33516,
+  "source": "https://github.com/github/github-mcp-server (GitHub API 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "Vercel",
+  "slug": "vercel",
+  "author": "Vercel",
+  "kind": "plugin",
+  "summary": "Build and deploy web apps and agents on Vercel with platform-aware skills.",
+  "why": "Deploy previews and read logs from inside the session.",
+  "url": "https://github.com/vercel/vercel-plugin",
+  "install": "/plugin marketplace add vercel/vercel-plugin",
+  "tags": [
+   "devops",
+   "web",
+   "frontend"
+  ],
+  "stars": 301,
+  "source": "https://github.com/vercel/vercel-plugin (GitHub API 2026-10-11); directory-cache.json review: partner",
+  "featured": false
+ },
+ {
+  "name": "Supabase",
+  "slug": "supabase",
+  "author": "Supabase community",
+  "kind": "plugin",
+  "summary": "Supabase plugin for database, auth and storage workflows.",
+  "why": "Postgres plus auth backend wired into your agent.",
+  "url": "https://github.com/supabase-community/supabase-plugin",
+  "install": null,
+  "tags": [
+   "data",
+   "devops",
+   "web"
+  ],
+  "stars": 35,
+  "source": "https://github.com/supabase-community/supabase-plugin (GitHub API); directory-cache.json review: partner",
+  "featured": false
+ },
+ {
+  "name": "Linear",
+  "slug": "linear",
+  "author": "Linear",
+  "kind": "plugin",
+  "summary": "Linear issue tracking integration to create, triage and update issues.",
+  "why": "Tickets and code live in the same conversation.",
+  "url": "https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/linear",
+  "install": "/plugin install linear@claude-plugins-official",
+  "tags": [
+   "productivity",
+   "workflow",
+   "mcp"
+  ],
+  "stars": null,
+  "source": "https://github.com/anthropics/claude-plugins-official (directory-cache.json, review: anthropic; GitHub contents API listing 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "Sentry",
+  "slug": "sentry",
+  "author": "Sentry",
+  "kind": "plugin",
+  "summary": "Sentry plugin for investigating errors, issues and performance data.",
+  "why": "Pulls real production errors into debugging sessions.",
+  "url": "https://github.com/getsentry/plugin-claude",
+  "install": null,
+  "tags": [
+   "devops",
+   "testing",
+   "mcp"
+  ],
+  "stars": 4,
+  "source": "https://github.com/getsentry/plugin-claude (GitHub API); directory-cache.json review: partner",
+  "featured": false
+ },
+ {
+  "name": "PostHog",
+  "slug": "posthog",
+  "author": "PostHog",
+  "kind": "plugin",
+  "summary": "PostHog analytics, flags and experiments for coding agents.",
+  "why": "Ask product analytics questions where you write the code.",
+  "url": "https://github.com/PostHog/ai-plugin",
+  "install": null,
+  "tags": [
+   "data",
+   "productivity"
+  ],
+  "stars": 88,
+  "source": "https://github.com/PostHog/ai-plugin (GitHub API); directory-cache.json review: partner",
+  "featured": false
+ },
+ {
+  "name": "Stripe",
+  "slug": "stripe",
+  "author": "Stripe",
+  "kind": "plugin",
+  "summary": "Stripe plugin with best-practice skills and tools for payments integrations.",
+  "why": "Payments code that follows Stripe's own guidance.",
+  "url": "https://github.com/stripe/ai",
+  "install": "/plugin marketplace add stripe/ai",
+  "tags": [
+   "finance",
+   "devops",
+   "web"
+  ],
+  "stars": 1881,
+  "source": "https://github.com/stripe/ai (GitHub API 2026-10-11; marketplace.json name 'stripe')",
+  "featured": false
+ },
+ {
+  "name": "Cloudflare",
+  "slug": "cloudflare",
+  "author": "Cloudflare",
+  "kind": "skill",
+  "summary": "Build, test and deploy on Cloudflare Workers and platform products.",
+  "why": "Official skills for the edge platform, straight from Cloudflare.",
+  "url": "https://github.com/cloudflare/skills",
+  "install": "/plugin marketplace add cloudflare/skills",
+  "tags": [
+   "devops",
+   "web"
+  ],
+  "stars": 3039,
+  "source": "https://github.com/cloudflare/skills (GitHub API 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "Figma",
+  "slug": "figma",
+  "author": "Figma",
+  "kind": "mcp",
+  "summary": "Figma design platform integration to read design files and generate code.",
+  "why": "Design to code with the real file as context.",
+  "url": "https://github.com/figma/mcp-server-guide",
+  "install": null,
+  "tags": [
+   "design",
+   "frontend",
+   "mcp"
+  ],
+  "stars": 2063,
+  "source": "https://github.com/figma/mcp-server-guide (GitHub API 2026-10-11); directory-cache.json lists it without a review badge",
+  "featured": false
+ },
+ {
+  "name": "Notion",
+  "slug": "notion",
+  "author": "Notion",
+  "kind": "plugin",
+  "summary": "Notion workspace integration for reading and writing pages and databases.",
+  "why": "Specs and notes become context for the agent.",
+  "url": "https://github.com/makenotion/claude-code-notion-plugin",
+  "install": null,
+  "tags": [
+   "productivity",
+   "docs"
+  ],
+  "stars": 493,
+  "source": "https://github.com/makenotion/claude-code-notion-plugin (GitHub API); directory-cache.json review: partner",
+  "featured": false
+ },
+ {
+  "name": "Hugging Face skills",
+  "slug": "hugging-face-skills",
+  "author": "Hugging Face",
+  "kind": "skill",
+  "summary": "Skills giving agents access to the Hugging Face ecosystem (models, datasets, Hub CLI).",
+  "why": "Official skills for working with models and datasets.",
+  "url": "https://github.com/huggingface/skills",
+  "install": "/plugin marketplace add huggingface/skills",
+  "tags": [
+   "data",
+   "ai-ops",
+   "research"
+  ],
+  "stars": 11157,
+  "source": "https://github.com/huggingface/skills (GitHub API; marketplace.json)",
+  "featured": false
+ },
+ {
+  "name": "Expo skills",
+  "slug": "expo-skills",
+  "author": "Expo",
+  "kind": "skill",
+  "summary": "Official skills for Expo and EAS: app design, deployment and upgrades.",
+  "why": "Mobile app know-how from the Expo team.",
+  "url": "https://github.com/expo/skills",
+  "install": "/plugin marketplace add expo/skills",
+  "tags": [
+   "mobile",
+   "frontend",
+   "devops"
+  ],
+  "stars": 2725,
+  "source": "https://github.com/expo/skills (GitHub API; marketplace.json 'expo-plugins')",
+  "featured": false
+ },
+ {
+  "name": "Knowledge Work Plugins",
+  "slug": "knowledge-work-plugins",
+  "author": "Anthropic",
+  "kind": "marketplace",
+  "summary": "Anthropic role plugins for sales, marketing, legal, finance, data, design and more.",
+  "why": "Claude Code for non-engineers too, from the source.",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "install": null,
+  "tags": [
+   "official",
+   "marketing",
+   "finance",
+   "legal",
+   "productivity"
+  ],
+  "stars": 29076,
+  "source": "https://github.com/anthropics/knowledge-work-plugins (GitHub API); directory-cache.json review: anthropic",
+  "featured": false
+ },
+ {
+  "name": "Financial Services",
+  "slug": "financial-services",
+  "author": "Anthropic",
+  "kind": "agent-pack",
+  "summary": "Anthropic plugins and agents for equity research, valuation, modelling and fund admin.",
+  "why": "Finance-grade agents like earnings review and month-end close.",
+  "url": "https://github.com/anthropics/financial-services",
+  "install": null,
+  "tags": [
+   "official",
+   "finance",
+   "agents",
+   "data"
+  ],
+  "stars": 39365,
+  "source": "https://github.com/anthropics/financial-services (GitHub API); directory-cache.json review: anthropic",
+  "featured": false
+ },
+ {
+  "name": "Claude for Legal",
+  "slug": "claude-for-legal",
+  "author": "Anthropic",
+  "kind": "marketplace",
+  "summary": "Suite of plugins for legal workflows: contracts, litigation, privacy and regulatory.",
+  "why": "Anthropic's own take on legal-work plugins.",
+  "url": "https://github.com/anthropics/claude-for-legal",
+  "install": null,
+  "tags": [
+   "official",
+   "legal",
+   "workflow"
+  ],
+  "stars": 9641,
+  "source": "https://github.com/anthropics/claude-for-legal (GitHub API); directory-cache.json review: anthropic",
+  "featured": false
+ },
+ {
+  "name": "Official plugin marketplace",
+  "slug": "official-plugin-marketplace",
+  "author": "Anthropic",
+  "kind": "marketplace",
+  "summary": "The official Claude Code plugin directory with Anthropic-built and vetted partner plugins.",
+  "why": "The default starting point for finding good plugins.",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "install": null,
+  "tags": [
+   "official",
+   "workflow",
+   "productivity"
+  ],
+  "stars": 37676,
+  "source": "https://github.com/anthropics/claude-plugins-official (GitHub API 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "Superpowers",
+  "slug": "superpowers",
+  "author": "obra (Jesse Vincent)",
+  "kind": "plugin",
+  "summary": "An agentic skills framework and methodology: brainstorm, plan, TDD, subagent-driven development.",
+  "why": "The most-starred workflow plugin; forces a disciplined dev process.",
+  "url": "https://github.com/obra/superpowers",
+  "install": "/plugin marketplace add obra/superpowers  then  /plugin install superpowers@superpowers-dev",
+  "tags": [
+   "community",
+   "workflow",
+   "testing",
+   "agents"
+  ],
+  "stars": 297543,
+  "source": "https://github.com/obra/superpowers (GitHub API 2026-10-11; marketplace.json)",
+  "featured": true
+ },
+ {
+  "name": "Anthropic Agent Skills",
+  "slug": "anthropic-agent-skills",
+  "author": "Anthropic",
+  "kind": "skill",
+  "summary": "Public repo of Agent Skills including document skills (docx, pdf, pptx, xlsx) and examples.",
+  "why": "The reference skill collection, with the Office/PDF skills.",
+  "url": "https://github.com/anthropics/skills",
+  "install": "/plugin marketplace add anthropics/skills",
+  "tags": [
+   "official",
+   "docs",
+   "productivity",
+   "learning"
+  ],
+  "stars": 180478,
+  "source": "https://github.com/anthropics/skills (GitHub API 2026-10-11; marketplace.json 'anthropic-agent-skills')",
+  "featured": true
+ },
+ {
+  "name": "Everything Claude Code",
+  "slug": "everything-claude-code",
+  "author": "affaan-m",
+  "kind": "agent-pack",
+  "summary": "Agent harness optimisation system: skills, instincts, memory, security and research-first development.",
+  "why": "Hackathon-winning mega config with huge adoption.",
+  "url": "https://github.com/affaan-m/everything-claude-code",
+  "install": "/plugin marketplace add affaan-m/everything-claude-code",
+  "tags": [
+   "community",
+   "workflow",
+   "agents",
+   "memory"
+  ],
+  "stars": 277030,
+  "source": "https://github.com/affaan-m/everything-claude-code redirects to affaan-m/ECC (GitHub API 2026-10-11; marketplace.json 'ecc')",
+  "featured": false
+ },
+ {
+  "name": "claude-mem",
+  "slug": "claude-mem",
+  "author": "thedotmack",
+  "kind": "plugin",
+  "summary": "Captures what the agent does, compresses it with AI and injects relevant context into future sessions.",
+  "why": "Persistent memory across sessions with almost no setup.",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "install": "/plugin marketplace add thedotmack/claude-mem",
+  "tags": [
+   "community",
+   "memory",
+   "productivity"
+  ],
+  "stars": 99645,
+  "source": "https://github.com/thedotmack/claude-mem (GitHub API 2026-10-11; marketplace.json)",
+  "featured": true
+ },
+ {
+  "name": "UI/UX Pro Max",
+  "slug": "ui-ux-pro-max",
+  "author": "nextlevelbuilder",
+  "kind": "skill",
+  "summary": "Design intelligence skill for professional UI/UX across platforms and stacks.",
+  "why": "Gives Claude a real design system vocabulary.",
+  "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "install": "/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill",
+  "tags": [
+   "community",
+   "design",
+   "frontend"
+  ],
+  "stars": 134771,
+  "source": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill (GitHub API 2026-10-11; marketplace.json)",
+  "featured": true
+ },
+ {
+  "name": "Awesome Claude Code",
+  "slug": "awesome-claude-code",
+  "author": "hesreallyhim",
+  "kind": "marketplace",
+  "summary": "Hand-picked list of skills, agents, hooks, status lines, plugins and tools for Claude Code.",
+  "why": "The reference awesome list for the whole ecosystem.",
+  "url": "https://github.com/hesreallyhim/awesome-claude-code",
+  "install": null,
+  "tags": [
+   "community",
+   "learning",
+   "research"
+  ],
+  "stars": 55436,
+  "source": "https://github.com/hesreallyhim/awesome-claude-code (GitHub API 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "Awesome Claude Skills (Composio)",
+  "slug": "awesome-claude-skills-composio",
+  "author": "ComposioHQ",
+  "kind": "marketplace",
+  "summary": "Curated list of Claude Skills, resources and tools for customising workflows.",
+  "why": "Big skills directory by category.",
+  "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "install": null,
+  "tags": [
+   "community",
+   "learning",
+   "automation"
+  ],
+  "stars": 76868,
+  "source": "https://github.com/ComposioHQ/awesome-claude-skills (GitHub API 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "wshobson/agents",
+  "slug": "wshobson-agents",
+  "author": "wshobson",
+  "kind": "agent-pack",
+  "summary": "Plugin marketplace of specialised subagents, skills and workflows for backend, docs, git and more.",
+  "why": "Dozens of focused plugins; install only what you need.",
+  "url": "https://github.com/wshobson/agents",
+  "install": "/plugin marketplace add wshobson/agents",
+  "tags": [
+   "community",
+   "agents",
+   "workflow",
+   "git"
+  ],
+  "stars": 40391,
+  "source": "https://github.com/wshobson/agents (GitHub API 2026-10-11; marketplace.json 'claude-code-workflows')",
+  "featured": false
+ },
+ {
+  "name": "Claude Code Templates",
+  "slug": "claude-code-templates",
+  "author": "davila7",
+  "kind": "agent-pack",
+  "summary": "CLI to configure and monitor Claude Code with a catalogue of agents, commands, hooks and MCPs.",
+  "why": "One-command browser of hundreds of ready configs.",
+  "url": "https://github.com/davila7/claude-code-templates",
+  "install": null,
+  "tags": [
+   "community",
+   "productivity",
+   "agents",
+   "ai-ops"
+  ],
+  "stars": 32562,
+  "source": "https://github.com/davila7/claude-code-templates (GitHub API 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "VoltAgent subagents",
+  "slug": "voltagent-subagents",
+  "author": "VoltAgent",
+  "kind": "agent-pack",
+  "summary": "Large collection of specialised Claude Code subagents grouped into installable plugins.",
+  "why": "Subagents for most languages and domains.",
+  "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "install": "/plugin marketplace add VoltAgent/awesome-claude-code-subagents",
+  "tags": [
+   "community",
+   "agents",
+   "workflow"
+  ],
+  "stars": 25640,
+  "source": "https://github.com/VoltAgent/awesome-claude-code-subagents (GitHub API; marketplace.json 'voltagent-subagents')",
+  "featured": false
+ },
+ {
+  "name": "Compound Engineering",
+  "slug": "compound-engineering",
+  "author": "EveryInc",
+  "kind": "plugin",
+  "summary": "Plugin where each unit of work makes the next one easier: plan, work, review, compound.",
+  "why": "From Every, a loop that accumulates knowledge.",
+  "url": "https://github.com/EveryInc/compound-engineering-plugin",
+  "install": "/plugin marketplace add EveryInc/compound-engineering-plugin",
+  "tags": [
+   "community",
+   "workflow",
+   "agents",
+   "code-review"
+  ],
+  "stars": 25470,
+  "source": "https://github.com/EveryInc/compound-engineering-plugin (GitHub API; marketplace.json)",
+  "featured": false
+ },
+ {
+  "name": "Ruflo (claude-flow)",
+  "slug": "ruflo-claude-flow",
+  "author": "ruvnet",
+  "kind": "agent-pack",
+  "summary": "Multi-agent swarm orchestration platform with adaptive memory for Claude Code.",
+  "why": "Heavyweight swarm orchestrator with a big following.",
+  "url": "https://github.com/ruvnet/ruflo",
+  "install": null,
+  "tags": [
+   "community",
+   "agents",
+   "automation",
+   "memory"
+  ],
+  "stars": 74347,
+  "source": "https://github.com/ruvnet/claude-flow redirects to ruvnet/ruflo (GitHub API 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "Chrome DevTools MCP",
+  "slug": "chrome-devtools-mcp",
+  "author": "ChromeDevTools",
+  "kind": "mcp",
+  "summary": "Chrome DevTools for coding agents: inspect, debug and profile pages from Claude.",
+  "why": "Official Chrome team tool to debug the live page.",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "install": null,
+  "tags": [
+   "mcp",
+   "web",
+   "testing",
+   "frontend"
+  ],
+  "stars": 53283,
+  "source": "https://github.com/ChromeDevTools/chrome-devtools-mcp (GitHub API 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "Scientific Agent Skills",
+  "slug": "scientific-agent-skills",
+  "author": "K-Dense-AI",
+  "kind": "skill",
+  "summary": "Library of agent skills for science: bioinformatics, chemistry, data analysis and literature.",
+  "why": "The biggest science-focused skills library.",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "install": null,
+  "tags": [
+   "community",
+   "research",
+   "data",
+   "learning"
+  ],
+  "stars": 48388,
+  "source": "https://github.com/K-Dense-AI/claude-scientific-skills redirects to K-Dense-AI/scientific-agent-skills (GitHub API 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "ccusage",
+  "slug": "ccusage",
+  "author": "ryoppippi",
+  "kind": "plugin",
+  "summary": "CLI that analyses Claude Code token usage and cost from local logs.",
+  "why": "See exactly what your sessions cost.",
+  "url": "https://github.com/ryoppippi/ccusage",
+  "install": null,
+  "tags": [
+   "community",
+   "ai-ops",
+   "productivity",
+   "data"
+  ],
+  "stars": 18969,
+  "source": "https://github.com/ryoppippi/ccusage redirects to ccusage/ccusage (GitHub API 2026-10-11)",
+  "featured": false
+ },
+ {
+  "name": "claude-remember",
+  "slug": "claude-remember",
+  "author": "Digital-Process-Tools",
+  "kind": "plugin",
+  "summary": "Continuous memory for Claude Code: identity, context and continuity across sessions.",
+  "why": "Lightweight memory plugin; the 'remember' listing in the directory.",
+  "url": "https://github.com/Digital-Process-Tools/claude-remember",
+  "install": null,
+  "tags": [
+   "community",
+   "memory",
+   "productivity"
+  ],
+  "stars": 196,
+  "source": "https://github.com/Digital-Process-Tools/claude-remember (GitHub API; directory-cache.json, no review badge)",
+  "featured": false
+ }
+]

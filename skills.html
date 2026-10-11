@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Claude skills and plugins - Bruno Fitas</title>
+  <meta name="description" content="Every plugin and skill in the Claude plugin directory, ranked by GitHub stars and filterable by tag.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="index.html"><span class="dot"></span>Bruno Fitas</a>
+      <nav class="nav" aria-label="Main">
+        <a href="index.html">Home</a>
+        <a href="skills.html" aria-current="page">Claude skills</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <button class="theme-btn" type="button" aria-label="Toggle dark mode" title="Toggle theme">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero" style="padding-bottom:24px">
+      <p class="eyebrow">Claude Code</p>
+      <h1>Skills and plugins, <em>ranked</em>.</h1>
+      <p class="lede">Every entry in the Claude plugin directory, ordered by GitHub stars, with a picture and tags you can filter. Pick a tag, type a word, copy the install line.</p>
+      <p class="small" id="meta">Loading data...</p>
+    </section>
+
+    <div class="filters">
+      <div class="row">
+        <label class="search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="search" type="search" placeholder="Search plugins, skills, repos..." autocomplete="off">
+        </label>
+        <select id="sort" class="sort" aria-label="Sort">
+          <option value="stars">Most stars</option>
+          <option value="updated">Recently updated</option>
+          <option value="name">Name A to Z</option>
+        </select>
+        <span class="count" id="count"></span>
+        <button class="clear" id="clear" type="button" hidden>Clear filters</button>
+      </div>
+      <div class="tags" id="tags"></div>
+    </div>
+
+    <section id="featured" style="padding-top:0"></section>
+
+    <section style="padding-top:0">
+      <div class="grid" id="plugins"></div>
+      <button class="btn more" id="more" type="button" hidden>Show more</button>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>Data: the Claude plugin directory and the GitHub API. Stars belong to the host repository; plugins inside a shared repo show that repo's count.</span>
+      <span><a href="https://github.com/brunofitas/brunofitas.github.io">Source</a></span>
+    </div>
+  </footer>
+  <script src="assets/site.js"></script>
+</body>
+</html>
