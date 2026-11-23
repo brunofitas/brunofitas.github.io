@@ -370,7 +370,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "1Password/1password-claude-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/cd0fe6c43a605e9be193afd759907cb9fa99008cc896a838a2f44cde55d83cb6/1Password/1password-claude-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/a862adb498cf9377b76728e2b12816f55f45f66e5d660e71d8e70cf8c542b945/1Password/1password-claude-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/38230737?s=160&v=4"
 },
@@ -379,7 +379,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 20
+"stargazerCount": 22
 },
 "1vmgm/viewprinter-plugin": {
 "description": "Schedule and publish social posts to TikTok, Instagram, Facebook, YouTube and X from Claude, via ViewPrinter",
@@ -423,13 +423,13 @@
 },
 "21st-dev/magic-mcp": {
 "description": "It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own \u2014 right from your editor. Magic MCP is now the 21st MCP; this package keeps old configs working. Setup: 21st.dev/mcp",
-"forkCount": 545,
+"forkCount": 547,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "ISC"
 },
 "nameWithOwner": "21st-dev/magic-mcp",
-"openGraphImageUrl": "https://opengraph.githubassets.com/3842758cb8fbba7b68a43b44aaba7e89405b43e8662c74e3b750bef07f009c19/21st-dev/magic-mcp",
+"openGraphImageUrl": "https://opengraph.githubassets.com/d160bc0f404f62b1d6b5b50d2405dadb5bc2e29075365ccadf4baecd94544d62/21st-dev/magic-mcp",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/199367026?s=160&v=4"
 },
@@ -481,7 +481,7 @@
 }
 ]
 },
-"stargazerCount": 6628
+"stargazerCount": 6647
 },
 "23shim/bidskim-mcp": {
 "description": "BidSkim MCP server - search live UK government tenders, contract renewals with incumbent suppliers, and buyer/supplier profiles from AI assistants (remote MCP at mcp.bidskim.com)",
@@ -698,7 +698,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-10-22T09:51:44Z",
+"pushedAt": "2026-11-23T02:20:57Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -869,20 +869,20 @@
 },
 "ChromeDevTools/chrome-devtools-mcp": {
 "description": "Chrome DevTools for coding agents",
-"forkCount": 4909,
+"forkCount": 4922,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "ChromeDevTools/chrome-devtools-mcp",
-"openGraphImageUrl": "https://opengraph.githubassets.com/a3725c9cc67f8afcfa7f7806eda8026aa69794415ba90212a32d3a82c6b49398/ChromeDevTools/chrome-devtools-mcp",
+"openGraphImageUrl": "https://opengraph.githubassets.com/840cc65668f5a77415c5368e70ec0ecf804bb8c2c15b42be07f7e260de657a8a/ChromeDevTools/chrome-devtools-mcp",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/11260967?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-22T01:06:14Z",
+"pushedAt": "2026-11-23T15:51:59Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -927,15 +927,15 @@
 }
 ]
 },
-"stargazerCount": 58766
+"stargazerCount": 58981
 },
 "ComposioHQ/awesome-claude-skills": {
 "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-"forkCount": 9817,
+"forkCount": 9839,
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "ComposioHQ/awesome-claude-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/49a0c73a87e9514c51a17fac10453823cc39cb2eb26cca17ae4d3d251b8c5729/ComposioHQ/awesome-claude-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/6ee9d6b8cc331e18d3c49f2788524ac3c5abb858391a16178d38649411c0316f/ComposioHQ/awesome-claude-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/128464815?s=160&v=4"
 },
@@ -987,7 +987,7 @@
 }
 ]
 },
-"stargazerCount": 80042
+"stargazerCount": 80138
 },
 "Digital-Process-Tools/claude-remember": {
 "description": "Persistent memory for Claude Code \u2014 identity, context, and continuity across sessions",
@@ -1004,7 +1004,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T11:30:55Z",
+"pushedAt": "2026-11-23T12:54:04Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -1053,13 +1053,13 @@
 },
 "EveryInc/compound-engineering-plugin": {
 "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-"forkCount": 2065,
+"forkCount": 2067,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "EveryInc/compound-engineering-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/08359d9b27917b184142f0a28c018d760574993cb3a4802cca3d38cacfebf653/EveryInc/compound-engineering-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/775e3e7f1ac9a96f2c15ac0cdde66b974c387db305271d6fa1f793f2e242fd6c/EveryInc/compound-engineering-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/76073155?s=160&v=4"
 },
@@ -1081,24 +1081,24 @@
 }
 ]
 },
-"stargazerCount": 26185
+"stargazerCount": 26204
 },
 "K-Dense-AI/scientific-agent-skills": {
 "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-"forkCount": 5085,
+"forkCount": 5099,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "K-Dense-AI/scientific-agent-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/977f108536073b49f4cf7b43fa92ebb389370251a72b3df11ffbb750c4736750/K-Dense-AI/scientific-agent-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/3723eea408c47c01e019ca1b37923b7f41d749619dabb1fcc4f92749cd46ab15/K-Dense-AI/scientific-agent-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/238572432?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-16T09:19:25Z",
+"pushedAt": "2026-11-23T09:18:27Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -1143,7 +1143,7 @@
 }
 ]
 },
-"stargazerCount": 58082
+"stargazerCount": 58204
 },
 "PostHog/ai-plugin": {
 "description": "Official PostHog plugin for Claude Code, Cursor, Gemini, Codex and other AI coding tools",
@@ -1158,7 +1158,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T12:15:26Z",
+"pushedAt": "2026-11-23T12:17:45Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -1187,13 +1187,13 @@
 },
 "VoltAgent/awesome-claude-code-subagents": {
 "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
-"forkCount": 3039,
+"forkCount": 3043,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "VoltAgent/awesome-claude-code-subagents",
-"openGraphImageUrl": "https://opengraph.githubassets.com/b9b682c8903f416265c4f4e4c5852893145550ae5c1d4ac228f7bdb0923f713d/VoltAgent/awesome-claude-code-subagents",
+"openGraphImageUrl": "https://opengraph.githubassets.com/6c36cbf3a2b8fa0bc08eba11700b3ee41314bee1c6769cfc22586c6b925caa67/VoltAgent/awesome-claude-code-subagents",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/201282378?s=160&v=4"
 },
@@ -1245,7 +1245,7 @@
 }
 ]
 },
-"stargazerCount": 26722
+"stargazerCount": 26743
 },
 "a-abdellatif98/db-migration-guard": {
 "description": null,
@@ -1499,7 +1499,7 @@
 }
 ]
 },
-"stargazerCount": 160
+"stargazerCount": 162
 },
 "aaddrick/building-with-typesafe-jev": {
 "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
@@ -2489,7 +2489,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/70699211?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-06-30T09:06:35Z",
+"pushedAt": "2026-11-22T19:58:35Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -2734,7 +2734,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/268469455?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-18T12:58:37Z",
+"pushedAt": "2026-11-23T11:03:46Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -2771,7 +2771,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T08:31:45Z",
+"pushedAt": "2026-11-23T14:30:19Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -3123,7 +3123,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-17T21:55:09Z",
+"pushedAt": "2026-11-23T09:42:15Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -3496,20 +3496,20 @@
 },
 "adobe/skills": {
 "description": "Adobe Skills for Agents",
-"forkCount": 102,
+"forkCount": 103,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "adobe/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/21e3a30b59d1a068ed665d33599acba9c022fa15e2d5993c711a67a885362fcf/adobe/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/c6f057e615d7978267e9e562452a0b225f37954ae17b8ffa067130b1015fee0c/adobe/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/476009?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T12:17:23Z",
+"pushedAt": "2026-11-23T15:29:00Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -3529,7 +3529,7 @@
 }
 ]
 },
-"stargazerCount": 335
+"stargazerCount": 336
 },
 "adologyai/content-intelligence-plugin": {
 "description": "Adology \u2014 competitive ad & creative intelligence for AI agents (MCP server + Claude plugin). Brand discovery, portfolios, content analysis, creator vetting, strategy artifacts.",
@@ -3735,7 +3735,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/329263835?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-22T06:30:56Z",
+"pushedAt": "2026-11-23T11:10:46Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -3824,20 +3824,20 @@
 },
 "affaan-m/everything-claude-code": {
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"forkCount": 45417,
+"forkCount": 45512,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "affaan-m/ECC",
-"openGraphImageUrl": "https://opengraph.githubassets.com/af546c59c1637086b4fa267cc5cbe54bc93bde2a6f365381b9f81695109656bc/affaan-m/ECC",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b39b19eb73f9b0a4794c3d2042ba3e3533b555ec0347c4051b97e29a99a8d855/affaan-m/ECC",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?s=160&u=9a9e442dbb6a4a4b9ce24c7548bf9071fef54651&v=4"
 },
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-20T01:13:45Z",
+"pushedAt": "2026-11-23T04:55:48Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -3882,7 +3882,7 @@
 }
 ]
 },
-"stargazerCount": 308664
+"stargazerCount": 309372
 },
 "afsalali1238/incubator": {
 "description": "Idea in, company out. A Claude skill that becomes a domain-expert CEO for your new project: it interviews you, researches the market autonomously, ships a findings report, then hires a sequenced team of specialist AI agents. Installable as a Claude Code plugin.",
@@ -4082,7 +4082,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T03:26:28Z",
+"pushedAt": "2026-11-23T15:47:45Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -4204,7 +4204,7 @@
 "primaryLanguage": {
 "name": "Rust"
 },
-"pushedAt": "2026-11-16T13:56:08Z",
+"pushedAt": "2026-11-23T13:56:13Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -4296,7 +4296,7 @@
 }
 ]
 },
-"stargazerCount": 91
+"stargazerCount": 92
 },
 "agentmail-to/agentmail-plugins": {
 "description": null,
@@ -4525,7 +4525,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "AgoraIO/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/e43a507784f2ebd6ea80b2cadd0cc97d199360f249ff7a7cb22f86c5f1127ff9/AgoraIO/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/423d50021479e53f234f8a638954647964fc012febdd2fd3f9c9e0d40ea2b98c/AgoraIO/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/18059420?s=160&v=4"
 },
@@ -4536,7 +4536,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 92
+"stargazerCount": 93
 },
 "aguerlain-lr/turbocharge": {
 "description": "Turbocharge: customize and sync plugin forks",
@@ -4743,7 +4743,7 @@
 }
 ]
 },
-"stargazerCount": 530
+"stargazerCount": 529
 },
 "ahmedraza28/image-generation-skill": {
 "description": "A model-agnostic skill for prompting modern text-to-image models (Imagen, Gemini Image, GPT Image, DALL-E, Stable Diffusion, Flux, Ideogram, Leonardo, Midjourney). Distilled from public prompting guides plus cross-vendor practical patterns.",
@@ -4753,7 +4753,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "ahmedraza28/image-generation-skill",
-"openGraphImageUrl": "https://opengraph.githubassets.com/dc5161bdef89f2c774b8cf1cd55d7dde24f4d0b2e72cc2bec8fa5e5c4d709231/ahmedraza28/image-generation-skill",
+"openGraphImageUrl": "https://opengraph.githubassets.com/840cd9623d93ab485b79f9eec0f47d05fe90e25ad7f6ce97e274b50efaaa5c4b/ahmedraza28/image-generation-skill",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/88032839?s=160&u=28af260673242539bbb482305268a87b99edaab9&v=4"
 },
@@ -4803,7 +4803,7 @@
 }
 ]
 },
-"stargazerCount": 5
+"stargazerCount": 6
 },
 "ahmidbbc/datadops": {
 "description": "\ud83d\udcca Advanced Datadog workflows for Claude Code - Transforms raw monitoring data into actionable insights through intelligent DatadOps automation.",
@@ -4966,7 +4966,7 @@
 },
 "aictrl-dev/skills": {
 "description": "Vendor-neutral AI engineering skills for common SDLC workflows.",
-"forkCount": 0,
+"forkCount": 1,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -4979,7 +4979,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-16T12:03:27Z",
+"pushedAt": "2026-11-23T11:10:30Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -5024,7 +5024,7 @@
 }
 ]
 },
-"stargazerCount": 5
+"stargazerCount": 15
 },
 "aidoggo/boardroom": {
 "description": "Have a real-time meeting with your agents, hear their perspectives, and make your decisions. Built for solo founders who want more finite control over their agentic teams.",
@@ -5282,7 +5282,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/38392618?s=160&u=35a34bf6f4d146d0183e29556917130f758e321a&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-21T07:10:43Z",
+"pushedAt": "2026-11-23T00:08:16Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -5993,7 +5993,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T06:33:03Z",
+"pushedAt": "2026-11-23T10:55:25Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -6055,7 +6055,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-22T12:05:10Z",
+"pushedAt": "2026-11-23T15:05:00Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -6440,7 +6440,7 @@
 },
 "alexgreensh/anidoodle": {
 "description": "Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens of styles, identical on every render.",
-"forkCount": 170,
+"forkCount": 172,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -6498,7 +6498,7 @@
 }
 ]
 },
-"stargazerCount": 1941
+"stargazerCount": 1976
 },
 "alexlexer/solidity-lsp": {
 "description": "Solidity language server plugin for Claude Code \u2014 go-to-definition, hover, diagnostics, and autocomplete for .sol files",
@@ -6969,7 +6969,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T07:18:38Z",
+"pushedAt": "2026-11-23T07:48:15Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -7137,7 +7137,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-10-15T15:12:48Z",
+"pushedAt": "2026-11-23T15:37:11Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -7177,7 +7177,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-19T10:54:30Z",
+"pushedAt": "2026-11-23T14:47:43Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -7214,7 +7214,7 @@
 "primaryLanguage": {
 "name": "PowerShell"
 },
-"pushedAt": "2026-11-18T15:11:01Z",
+"pushedAt": "2026-11-23T15:48:22Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -7235,7 +7235,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-21T21:08:42Z",
+"pushedAt": "2026-11-23T12:03:18Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -7339,11 +7339,11 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T06:30:26Z",
+"pushedAt": "2026-11-23T15:51:33Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 511
+"stargazerCount": 514
 },
 "amekala/adspirer-mcp-plugin": {
 "description": "Adspirer MCP plugin for Claude Code - cross-platform ad management across Google Ads, Meta Ads, TikTok Ads, and LinkedIn Ads",
@@ -7688,7 +7688,7 @@
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "amzn/selling-partner-agentic-toolkit",
-"openGraphImageUrl": "https://opengraph.githubassets.com/daa226f199a4c3dde73dde4c5be22018d79db99748aa48f3483b8ee7ecab071a/amzn/selling-partner-agentic-toolkit",
+"openGraphImageUrl": "https://opengraph.githubassets.com/4fa55926c569d61c20403919f772dceb513ee678672e977b38f6860f5f5c3630/amzn/selling-partner-agentic-toolkit",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/8594673?s=160&v=4"
 },
@@ -7697,7 +7697,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 48
+"stargazerCount": 50
 },
 "anaidenko/claude-notify-resume": {
 "description": "Desktop notifications for Claude Code that tell you which conversation replied \u2014 or is waiting on you \u2014 and take you back into it.",
@@ -7986,7 +7986,7 @@
 "primaryLanguage": {
 "name": "C#"
 },
-"pushedAt": "2026-11-21T13:45:22Z",
+"pushedAt": "2026-11-22T13:37:18Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -8157,7 +8157,7 @@
 },
 "anipotts/cc": {
 "description": "CC claude code on all your sessions",
-"forkCount": 0,
+"forkCount": 1,
 "isArchived": true,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -8350,14 +8350,14 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "ankurmans/pepys-mcp",
-"openGraphImageUrl": "https://opengraph.githubassets.com/eee6269cf04f45fb005972fcf53b8ba3e830de2537455e52c8d68952b888833c/ankurmans/pepys-mcp",
+"openGraphImageUrl": "https://opengraph.githubassets.com/50271e46a0415a480dd488f5b5a093125872b03ac8c918a24178681192587c54/ankurmans/pepys-mcp",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/12939357?s=160&u=da05473f56d48b074b55e785aaa2c3be6965e82a&v=4"
 },
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-05T06:27:21Z",
+"pushedAt": "2026-11-23T10:33:04Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -8481,7 +8481,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-17T14:10:15Z",
+"pushedAt": "2026-11-23T11:22:31Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -8734,32 +8734,32 @@
 },
 "anthropics/claude-code": {
 "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-"forkCount": 25085,
+"forkCount": 25114,
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "anthropics/claude-code",
-"openGraphImageUrl": "https://opengraph.githubassets.com/cfd02a4f0c44232d2ca3d49fd3233e4737148352d3aee53a7ddb23fec82b48d8/anthropics/claude-code",
+"openGraphImageUrl": "https://opengraph.githubassets.com/6deaaa98eadab9b7eabdf21ee6b05a8a9fc7a635c44d24c1cf8ddac9a3a4148c/anthropics/claude-code",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-22T02:33:17Z",
+"pushedAt": "2026-11-23T10:14:33Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 156646
+"stargazerCount": 156791
 },
 "anthropics/claude-for-financial-advisors": {
 "description": "Claude for Financial Advisors: a Claude Cowork plugin with ready-to-run workflows for financial advisors, drawing on third-party connectors.",
-"forkCount": 53,
+"forkCount": 54,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "anthropics/claude-for-financial-advisors",
-"openGraphImageUrl": "https://opengraph.githubassets.com/2a5a6b4b17fbbc9c190175b28bf51a76e944b7ce2676527d1d6f6f0b76841df7/anthropics/claude-for-financial-advisors",
+"openGraphImageUrl": "https://opengraph.githubassets.com/42b8bc8c0c84a2c09a695ed4f9bae37a07eef739e65fa4212f15e0708accad24/anthropics/claude-for-financial-advisors",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?s=160&v=4"
 },
@@ -8770,17 +8770,17 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 164
+"stargazerCount": 165
 },
 "anthropics/claude-for-legal": {
 "description": "A suite of plugins for legal workflows",
-"forkCount": 1984,
+"forkCount": 1985,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "anthropics/claude-for-legal",
-"openGraphImageUrl": "https://opengraph.githubassets.com/c46a56299bd476746698c35a1aa7e14e447524dde0f6dd78ccdffa89bfd16661/anthropics/claude-for-legal",
+"openGraphImageUrl": "https://opengraph.githubassets.com/aec4e3bf3e2f310495561b8780b4c9a81ef78c20313d828aae26953eb8ac7190/anthropics/claude-for-legal",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?s=160&v=4"
 },
@@ -8791,24 +8791,24 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 10061
+"stargazerCount": 10075
 },
 "anthropics/claude-plugins-official": {
 "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-"forkCount": 4983,
+"forkCount": 5006,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "anthropics/claude-plugins-official",
-"openGraphImageUrl": "https://opengraph.githubassets.com/0d964d1e800bf0476dcedd86c00b48dc97908646d282789f2e880ba6f9043d88/anthropics/claude-plugins-official",
+"openGraphImageUrl": "https://opengraph.githubassets.com/3c95ebdf417b8e14412e755f8e453111128c7e5d0ddf99e20303ed608f250208/anthropics/claude-plugins-official",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T07:27:49Z",
+"pushedAt": "2026-11-23T14:44:48Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -8828,7 +8828,7 @@
 }
 ]
 },
-"stargazerCount": 47948
+"stargazerCount": 48039
 },
 "anthropics/financial-services": {
 "description": null,
@@ -8838,7 +8838,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "anthropics/financial-services",
-"openGraphImageUrl": "https://opengraph.githubassets.com/122d1e0eb5940a1f3fcc024456b464be69971147eceae6c4dce9a062beafe32b/anthropics/financial-services",
+"openGraphImageUrl": "https://opengraph.githubassets.com/7a673ff74c012e38c284d6697c691ff7e6ee097ae8783914e9972cb2ba659992/anthropics/financial-services",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?s=160&v=4"
 },
@@ -8849,36 +8849,36 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 41453
+"stargazerCount": 41478
 },
 "anthropics/knowledge-work-plugins": {
 "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-"forkCount": 4048,
+"forkCount": 4058,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "anthropics/knowledge-work-plugins",
-"openGraphImageUrl": "https://opengraph.githubassets.com/009e0fd406c2f9cb02c30053d01ac3abead709bd05f2385c94a50ec7960acb71/anthropics/knowledge-work-plugins",
+"openGraphImageUrl": "https://opengraph.githubassets.com/92c694e1bbb89b4600ebb801cca80ba78754d75d393fc51ba5856aae972f21c9/anthropics/knowledge-work-plugins",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T07:25:29Z",
+"pushedAt": "2026-11-23T14:44:58Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 36671
+"stargazerCount": 36734
 },
 "anthropics/life-sciences": {
 "description": "Repo for the Claude Code Marketplace to use with the Claude for Life Sciences Launch. This will continue to host the marketplace.json long-term, but not the actual MCP servers.",
-"forkCount": 117,
+"forkCount": 118,
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "anthropics/life-sciences",
-"openGraphImageUrl": "https://opengraph.githubassets.com/c119db8fab01a3f78c8ce4bfeea3fa862e87785fb23481caa058f03cf441eab8/anthropics/life-sciences",
+"openGraphImageUrl": "https://opengraph.githubassets.com/05774dc75f49df60aed59e56f2b23c0e98c929bc29fdd58aa65f133c23d1ccea/anthropics/life-sciences",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?s=160&v=4"
 },
@@ -8889,15 +8889,15 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 654
+"stargazerCount": 655
 },
 "anthropics/skills": {
 "description": "Public repository for Agent Skills",
-"forkCount": 23271,
+"forkCount": 23333,
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "anthropics/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/251b1414056306d1383eb73cd47a001eca26638d1340b5003a72259b60ad9968/anthropics/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/57e52957c5b416b5e13387dac8a908f35f81951388d948db21ce8e99281c9ae1/anthropics/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?s=160&v=4"
 },
@@ -8914,7 +8914,7 @@
 }
 ]
 },
-"stargazerCount": 198770
+"stargazerCount": 199321
 },
 "antidote003/claude-seo-check": {
 "description": "SEO checker skill for Claude Code \u2014 pre-commit SEO audit: /seo-check reviews your git diff for regressions (noindex, robots.txt, canonicals, redirects, JSON-LD) and crawls the affected routes like Googlebot",
@@ -9024,7 +9024,7 @@
 },
 "anysiteio/agent-skills": {
 "description": null,
-"forkCount": 4,
+"forkCount": 5,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -9394,16 +9394,16 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "apolloio/apollo-mcp-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/c19c4bbb2456721724c7908350706387614855e30eeb29fd21c14c5fa1ff3acb/apolloio/apollo-mcp-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/38578ff4ebd7a0fae5cc21c16fd96cddc421332caf4eb2f34c17b3d6c1606190/apolloio/apollo-mcp-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/19340971?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-19T13:59:37Z",
+"pushedAt": "2026-11-23T05:10:09Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 42
+"stargazerCount": 43
 },
 "apoorve8055/virtual-team": {
 "description": "Virtual senior engineering team for Claude Code \u2014 12 project-adaptive expert personas for code review and development guidance",
@@ -9462,7 +9462,7 @@
 },
 "app-vitals/shipwright": {
 "description": "The open-source autonomous delivery agent for Claude Code.",
-"forkCount": 5,
+"forkCount": 6,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -9475,7 +9475,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-21T04:49:32Z",
+"pushedAt": "2026-11-23T01:53:04Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -9579,7 +9579,7 @@
 "primaryLanguage": {
 "name": "PowerShell"
 },
-"pushedAt": "2026-09-25T21:03:46Z",
+"pushedAt": "2026-11-22T19:10:58Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -9664,13 +9664,13 @@
 },
 "appllama/appllama-skills": {
 "description": "A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile screens.",
-"forkCount": 281,
+"forkCount": 283,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "Appllama/appllama-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/72817a292b4248a40484d4396606bdfd3a295e462a6294a06cdb52130a271bab/Appllama/appllama-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/510c76c4070c44c7ca838bd380e775785c2f11bb4d46f022fa4a2ad2616b9b58/Appllama/appllama-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/313732614?s=160&v=4"
 },
@@ -9720,7 +9720,7 @@
 }
 ]
 },
-"stargazerCount": 5626
+"stargazerCount": 5644
 },
 "appshapes/telder": {
 "description": "Telder: a TL;DR under every long Claude Code reply",
@@ -10234,7 +10234,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-20T14:38:33Z",
+"pushedAt": "2026-11-22T19:38:23Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -10460,7 +10460,7 @@
 },
 "ark0n/codeman": {
 "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/7, from any device, watch every subagent live",
-"forkCount": 131,
+"forkCount": 132,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -10518,7 +10518,7 @@
 }
 ]
 },
-"stargazerCount": 846
+"stargazerCount": 847
 },
 "arkah-io/arkah-plugins": {
 "description": "Visualize and challenge your ideas. Arkah integrations for OpenAI, Codex and Claude.",
@@ -11316,7 +11316,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "Astro-Han/claude-pace",
-"openGraphImageUrl": "https://opengraph.githubassets.com/a832b1430207eaf7c92a8b444c02568139389fb878a16fd8a3d80b97d061f800/Astro-Han/claude-pace",
+"openGraphImageUrl": "https://opengraph.githubassets.com/c6f465e571a458e4e8e3016b25a384ee5507bd31ff17c23d7a575b223b55a2fc/Astro-Han/claude-pace",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/255364436?s=160&u=02435e6bcb9fbe6a4f9e01b4de81b9984da43dde&v=4"
 },
@@ -11368,7 +11368,7 @@
 }
 ]
 },
-"stargazerCount": 246
+"stargazerCount": 247
 },
 "astronomer/agents": {
 "description": "AI agent tooling for data engineering workflows.",
@@ -11378,7 +11378,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "astronomer/agents",
-"openGraphImageUrl": "https://opengraph.githubassets.com/d0d7697396ab885246640b1bd4f7c1c0a953a18acd520947762a9a1d80ae53fa/astronomer/agents",
+"openGraphImageUrl": "https://opengraph.githubassets.com/e51b334c87cc1fee47580f4cc7550cef035d1c1b0fde983d2107d38947b0b7ae/astronomer/agents",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/12449437?s=160&v=4"
 },
@@ -11430,7 +11430,7 @@
 }
 ]
 },
-"stargazerCount": 463
+"stargazerCount": 464
 },
 "asyntai/mcp-bridge": {
 "description": "Connect any local MCP client to your Asyntai account. Bridges stdio to the hosted Asyntai MCP server and handles the OAuth sign-in.",
@@ -11575,7 +11575,7 @@
 "primaryLanguage": {
 "name": "Swift"
 },
-"pushedAt": "2026-11-22T06:43:00Z",
+"pushedAt": "2026-11-23T07:32:19Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -11703,7 +11703,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "atlassian/atlassian-mcp-server",
-"openGraphImageUrl": "https://opengraph.githubassets.com/19ade8b4b3b09b1d6b42544a62281da1ad08a318a8c6b0367da482426dfa7178/atlassian/atlassian-mcp-server",
+"openGraphImageUrl": "https://opengraph.githubassets.com/34ea8cdb44fed8926022b1fb3cc4e3c943caad1d6a67eec3acbc4d40a880c241/atlassian/atlassian-mcp-server",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/168166?s=160&v=4"
 },
@@ -11755,7 +11755,7 @@
 }
 ]
 },
-"stargazerCount": 1185
+"stargazerCount": 1186
 },
 "atlassian/forge-skills": {
 "description": "The Forge Skills Plugin bundles several Forge-focused skills plus MCP-backed tooling so your agent can scaffold apps, review them before deploy, debug production issues, and stay current on Forge APIs and the Atlassian Design System.",
@@ -11772,7 +11772,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-15T20:12:03Z",
+"pushedAt": "2026-11-22T21:49:10Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -12037,7 +12037,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-08-26T09:20:14Z",
+"pushedAt": "2026-11-23T00:57:24Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -12432,7 +12432,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-18T09:10:06Z",
+"pushedAt": "2026-11-23T13:54:51Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -12797,7 +12797,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "AwardTravelFinder/mcp",
-"openGraphImageUrl": "https://opengraph.githubassets.com/c612dedd8564f0477824217622f2b14268e60d64877c328438993d75e33062f3/AwardTravelFinder/mcp",
+"openGraphImageUrl": "https://opengraph.githubassets.com/45db6abbaa599374b78adb9211071c1db8e897d35f6b1d618564721d45b5c690/AwardTravelFinder/mcp",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/277431745?s=160&v=4"
 },
@@ -12847,7 +12847,7 @@
 }
 ]
 },
-"stargazerCount": 16
+"stargazerCount": 17
 },
 "awesbecher/masterclass-pipeline-gen": {
 "description": "AI-native pipeline planning for startup CEOs and boards: explainable engine choices, budget allocation, sales capacity, and weekly execution. By Andrew Wesbecher.",
@@ -12975,24 +12975,24 @@
 },
 "aws/agent-toolkit-for-aws": {
 "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-"forkCount": 480,
+"forkCount": 483,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "aws/agent-toolkit-for-aws",
-"openGraphImageUrl": "https://opengraph.githubassets.com/afaeaa2c752d5da8c52ab10bc828f6fda949f1aec90988867ca49745e1ee8fc2/aws/agent-toolkit-for-aws",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b66a05008afd71ea853ef61cd1102c6899ccad84d12c61cd7d705e731eaf7607/aws/agent-toolkit-for-aws",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/2232217?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T06:17:09Z",
+"pushedAt": "2026-11-23T15:26:11Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 3538
+"stargazerCount": 3549
 },
 "awslabs/agent-plugins": {
 "description": "Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.",
@@ -14106,7 +14106,7 @@
 },
 "base44/skills": {
 "description": null,
-"forkCount": 21,
+"forkCount": 22,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -14295,7 +14295,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 14
+"stargazerCount": 15
 },
 "beaverbeard/gdrive-to-markdown": {
 "description": "Claude Code-\u0441\u043a\u0438\u043b: \u0437\u0430\u0431\u0438\u0440\u0430\u0435\u0442 Google Docs, Sheets \u0438 Slides \u0432 \u0447\u0438\u0441\u0442\u0443\u044e Markdown-\u0431\u0430\u0437\u0443 \u0437\u043d\u0430\u043d\u0438\u0439 \u2014 \u0446\u0435\u043b\u0438\u043a\u043e\u043c, \u0441 \u0430\u0432\u0442\u043e-\u0440\u0430\u0441\u043a\u043b\u0430\u0434\u043a\u043e\u0439 \u043f\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u043c\u0443, \u0447\u0435\u0440\u0435\u0437 MCP-\u043a\u043e\u043d\u043d\u0435\u043a\u0442\u043e\u0440 Google Drive. \u0411\u0435\u0437 API-\u043a\u043b\u044e\u0447\u0435\u0439 \u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 OAuth.",
@@ -14356,7 +14356,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 15
+"stargazerCount": 16
 },
 "beaverbeard/slopotron": {
 "description": "\ud83d\udd2b \u041e\u0442\u0441\u0442\u0440\u0435\u043b\u0438\u0432\u0430\u0435\u0442 \u043d\u0435\u0439\u0440\u043e\u0441\u043b\u043e\u043f \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430 \u2014 \u043a\u0430\u043d\u0446\u0435\u043b\u044f\u0440\u0438\u0442, AI-\u043a\u043b\u0438\u0448\u0435 \u0438 \u00ab\u043d\u0435\u0439\u0440\u043e\u0442\u0440\u043e\u043f\u044b\u00bb \u043f\u043e\u0434 \u0434\u0440\u043e\u0431\u043e\u0432\u0438\u043a. Claude Code-\u0441\u043a\u0438\u043b.",
@@ -14520,7 +14520,7 @@
 "stargazerCount": 54
 },
 "beforeword/beforeword": {
-"description": "Why should anyone have to accept learned words and numbers as who they are, who others are or what the world is? The proposal, films, music and source code.",
+"description": "Why should we have to accept the words and numbers we learn as who we are, who others are, or what the world is? The Beforeword proposal, illustrated book, films, music, research and source code.",
 "forkCount": 0,
 "isArchived": false,
 "licenseInfo": null,
@@ -14532,7 +14532,7 @@
 "primaryLanguage": {
 "name": "HTML"
 },
-"pushedAt": "2026-11-21T12:55:11Z",
+"pushedAt": "2026-11-22T22:26:43Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -15225,7 +15225,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "BinyaminEden/letmewatch",
-"openGraphImageUrl": "https://opengraph.githubassets.com/3f1d4615f84930fef67ed144fe7cc62ed0bd6565cebe0bded73cf08d03d0d17e/BinyaminEden/letmewatch",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ddb8a3319fdca9a19d42f927e1b1ca33e80a2c65d738de92d0b36025008fb511/BinyaminEden/letmewatch",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/112067325?s=160&v=4"
 },
@@ -15236,7 +15236,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 9
+"stargazerCount": 10
 },
 "bitcompool/prompt-enhancer-claude-plugin": {
 "description": "Skills-only Prompt Enhancer plugin for Claude: rewrites a draft prompt or coding task into a clear, agent-ready prompt. No MCP server, no network call, no data sent anywhere.",
@@ -15335,7 +15335,7 @@
 },
 "bitjaru/styleseed": {
 "description": "Open-source design-method engine for Claude Code, Codex & Cursor. One agent skill with 22 internal workflows for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.",
-"forkCount": 94,
+"forkCount": 98,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -15348,7 +15348,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-18T09:47:54Z",
+"pushedAt": "2026-11-23T07:57:31Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -15393,7 +15393,7 @@
 }
 ]
 },
-"stargazerCount": 1023
+"stargazerCount": 1042
 },
 "bitmovin/skills": {
 "description": "AI coding agent skill for integrating the Bitmovin Web Player SDK",
@@ -15516,7 +15516,7 @@
 }
 ]
 },
-"stargazerCount": 193
+"stargazerCount": 194
 },
 "blackrock/advisor-center-agent-skills": {
 "description": null,
@@ -15539,7 +15539,7 @@
 },
 "blader/humanizer": {
 "description": "Agent skill that removes signs of AI-generated writing from text",
-"forkCount": 5647,
+"forkCount": 5689,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -15597,7 +15597,7 @@
 }
 ]
 },
-"stargazerCount": 72158
+"stargazerCount": 72643
 },
 "blaxel-ai/agent-skills": {
 "description": null,
@@ -16794,7 +16794,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-19T05:54:01Z",
+"pushedAt": "2026-11-23T05:41:18Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -17156,7 +17156,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "Buzzfy/buzzfy",
-"openGraphImageUrl": "https://opengraph.githubassets.com/8db4cbb1760d1918d4d3c5a7f444a4a13aa6c740b174c1b808f36539e20f9547/Buzzfy/buzzfy",
+"openGraphImageUrl": "https://opengraph.githubassets.com/64841eaaac0af7052599c2c660f37bc72de5149bbd979e7c561760f8de423442/Buzzfy/buzzfy",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/335858779?s=160&v=4"
 },
@@ -17206,7 +17206,7 @@
 }
 ]
 },
-"stargazerCount": 0
+"stargazerCount": 1
 },
 "bvdr/folio-claude-plugin": {
 "description": "Folio plugin for Claude \u2014 six skills plus the myfolio.so remote MCP server",
@@ -17242,7 +17242,7 @@
 "primaryLanguage": {
 "name": "Rust"
 },
-"pushedAt": "2026-11-21T18:21:55Z",
+"pushedAt": "2026-11-23T11:57:19Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -17510,7 +17510,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T13:16:09Z",
+"pushedAt": "2026-11-23T15:53:20Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -17684,7 +17684,7 @@
 },
 "camilleroux/genart-skill": {
 "description": "Generative art skill for Claude Code \u2014 deterministic, hash-seeded, onchain-ready",
-"forkCount": 14,
+"forkCount": 16,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -17740,7 +17740,7 @@
 }
 ]
 },
-"stargazerCount": 168
+"stargazerCount": 180
 },
 "camilooscargbaptista/cto-toolkit": {
 "description": "The ultimate Claude Code plugin for engineering leadership \u2014 54 skills, 5 autonomous agents, 9 automation scripts, and intelligent hooks covering the full software engineering lifecycle.",
@@ -17750,7 +17750,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "camilooscargbaptista/cto-toolkit",
-"openGraphImageUrl": "https://opengraph.githubassets.com/eefc64e135e8bbd2ad2b86349ac69960d729d8d8cd73659826bdefcf8fd8274c/camilooscargbaptista/cto-toolkit",
+"openGraphImageUrl": "https://opengraph.githubassets.com/0012e327fff2fac4fd31c01f337720e093bbe16ab19b88427e1f0bf24840ab25/camilooscargbaptista/cto-toolkit",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/5430185?s=160&u=80dcb0a746745fc0bc9e1e94ea80693aaf29bf37&v=4"
 },
@@ -17761,7 +17761,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 8
+"stargazerCount": 9
 },
 "canalsegredosdodigital/agencia-pessoal-one": {
 "description": "Ag\u00eancia Pessoal ONE plugin for Claude",
@@ -17847,7 +17847,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/105837515?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-20T10:01:36Z",
+"pushedAt": "2026-11-23T02:32:18Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -17982,7 +17982,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "carlsz/ux-agent-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/361afa1c7a36fc1ca4083f97a4d490ec5e4046c2b2d470ce4e401f0b80f7e125/carlsz/ux-agent-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ea5f22befd93022e704661b86a06999a622640795d0a6f70299e034ab248f649/carlsz/ux-agent-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/86763?s=160&u=ca457f7fdbdfbd02bbec546778482dd8fba0922c&v=4"
 },
@@ -17993,7 +17993,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 18
+"stargazerCount": 19
 },
 "carson-sweet/sweetclaude": {
 "description": "A full lifecycle software development partner for Claude Code - from concept to completion.",
@@ -18061,7 +18061,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-21T01:52:37Z",
+"pushedAt": "2026-11-23T14:12:40Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -18810,7 +18810,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-09T23:03:06Z",
+"pushedAt": "2026-11-23T09:30:10Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -19727,7 +19727,7 @@
 },
 "chipkorvyn/strategy-consultant": {
 "description": "Consulting plugin for Claude Cowork",
-"forkCount": 2,
+"forkCount": 3,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -20468,7 +20468,7 @@
 },
 "clickhouse/agent-skills": {
 "description": "The official Agent Skills for ClickHouse and ClickHouse Cloud",
-"forkCount": 37,
+"forkCount": 38,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -20551,7 +20551,7 @@
 "primaryLanguage": {
 "name": "Go"
 },
-"pushedAt": "2026-11-22T03:24:13Z",
+"pushedAt": "2026-11-23T03:26:57Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -20596,7 +20596,7 @@
 }
 ]
 },
-"stargazerCount": 5066
+"stargazerCount": 5067
 },
 "clientgen/clientgen-reach": {
 "description": "ClientGen Reach plugin for Claude: advisor postcards, handwritten notes and personal pages with real proofs, prices and firm review.",
@@ -20728,7 +20728,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-20T06:25:28Z",
+"pushedAt": "2026-11-23T13:03:24Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -20819,13 +20819,13 @@
 },
 "cloudflare/skills": {
 "description": "Skills for teaching agents how to build on Cloudflare.",
-"forkCount": 361,
+"forkCount": 362,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "cloudflare/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/4c8766d552078cf2b3bfabbfcd2f13826dc45b8b37bbda0251bace1470086c64/cloudflare/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ee90a59f1f3778cabdb30053f05cb9b6dde11cfad1df33c771e415c3aabac68f/cloudflare/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/314135?s=160&v=4"
 },
@@ -20857,7 +20857,7 @@
 }
 ]
 },
-"stargazerCount": 3426
+"stargazerCount": 3437
 },
 "cloudinary-devs/cloudinary-plugin": {
 "description": "Cloudinary's official Cursor/Claude Code plugins",
@@ -20870,7 +20870,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/45069436?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-19T12:04:55Z",
+"pushedAt": "2026-11-23T11:42:27Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -21418,7 +21418,7 @@
 },
 "coderabbitai/skills": {
 "description": null,
-"forkCount": 26,
+"forkCount": 28,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -21431,7 +21431,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-20T16:23:04Z",
+"pushedAt": "2026-11-23T12:47:07Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -21918,20 +21918,20 @@
 },
 "confident-ai/deepeval": {
 "description": "The LLM Evaluation Framework",
-"forkCount": 2241,
+"forkCount": 2245,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "confident-ai/deepeval",
-"openGraphImageUrl": "https://opengraph.githubassets.com/804bc900fda43d8cabdeb14a6e97774902888ee8906fc8fe24ff0a42b4566cd8/confident-ai/deepeval",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ba91207cb005390b7ee5f23be126bbc98990b14b0187d1890dad1e82db082393/confident-ai/deepeval",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/130858411?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T01:43:24Z",
+"pushedAt": "2026-11-23T15:21:02Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -21966,7 +21966,7 @@
 }
 ]
 },
-"stargazerCount": 19589
+"stargazerCount": 19605
 },
 "confluentinc/agent-skills": {
 "description": "AI agent skills for stream processing and event streaming",
@@ -22208,7 +22208,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-20T07:38:24Z",
+"pushedAt": "2026-11-23T07:08:02Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -23124,14 +23124,14 @@
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "CreativeClawCo/creative-claw-marketplace",
-"openGraphImageUrl": "https://opengraph.githubassets.com/13f9a197fb2ee168cd0b0a675e55bcc972cd39103a013e67a8f67545ce95aa9a/CreativeClawCo/creative-claw-marketplace",
+"openGraphImageUrl": "https://opengraph.githubassets.com/6ef754672b0fe6a627593944c042dca6d1aa1353b99478ac52e6a70944a012f0/CreativeClawCo/creative-claw-marketplace",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/272226749?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T10:56:17Z",
+"pushedAt": "2026-11-23T10:51:57Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -23176,7 +23176,7 @@
 }
 ]
 },
-"stargazerCount": 7
+"stargazerCount": 8
 },
 "credibledata/credible-plugin": {
 "description": "Plugin for using Credible from AI assistants \u2014 semantic model search, query execution, and analysis.",
@@ -23740,13 +23740,13 @@
 },
 "cuellarfr/design-skills": {
 "description": "UX and design skills for Claude Code \u2014 research, critique, accessibility, journey mapping and more.",
-"forkCount": 9,
+"forkCount": 11,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "cuellarfr/design-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/4c7ba88bd4c1f505cc573fbd2eb6f490205a4db68d7dc8083c6e470be26e1331/cuellarfr/design-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/f56072af78e260af4cd56f08e55690fbc9a0e46eafe7bb86bdc248287a6c7b5f/cuellarfr/design-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/1194799?s=160&u=81d8f9317346571009dc6ecabfa2e60b53a58253&v=4"
 },
@@ -23798,7 +23798,7 @@
 }
 ]
 },
-"stargazerCount": 130
+"stargazerCount": 133
 },
 "curlymolelabs/supericons": {
 "description": "Semantic SVG icon search, previews, and recommendations for AI coding agents.",
@@ -23963,7 +23963,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-20T08:51:31Z",
+"pushedAt": "2026-11-23T13:23:22Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -24165,7 +24165,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "cyrusxyl/agent-discussion",
-"openGraphImageUrl": "https://opengraph.githubassets.com/5c905048ebbff7180be23a150f27b3d4f6daaf9bb3e539a9b1e8adffa631eb13/cyrusxyl/agent-discussion",
+"openGraphImageUrl": "https://opengraph.githubassets.com/7509f62d82ffabb16fe1100773a3a0034afccc866df0474369be07947f19848a/cyrusxyl/agent-discussion",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/19308239?s=160&u=7155c09c492fd8ea9b7af0d8724b59d3d0d3d214&v=4"
 },
@@ -24176,7 +24176,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 4
+"stargazerCount": 5
 },
 "cyvnrs/smdd-toolkit": {
 "description": "Structured Markdown Driven Development skills for Claude Code. Plan projects as prose markdown before writing a line of code, then build component-by-component with atomic, parallel-safe sub-agents.",
@@ -24547,7 +24547,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "danielwh2/cuelume",
-"openGraphImageUrl": "https://opengraph.githubassets.com/b47511aac3f6b1cd24041e5a031fad8861d95c312d7bb6d8cad7727c9557a49a/danielwh2/cuelume",
+"openGraphImageUrl": "https://opengraph.githubassets.com/e6e0babf7b3b4dde832b9730d1274e987a33ea396d5310560acd158c6981a555/danielwh2/cuelume",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/51721416?s=160&u=dc69e34ff8e06d6462dafb2cc7293ca7801b6dfa&v=4"
 },
@@ -24881,7 +24881,7 @@
 },
 "dash0hq/dash0-agent-plugin": {
 "description": "OpenTelemetry tracing for coding agents (Claude Code, Cursor, Codex, Copilot CLI)",
-"forkCount": 2,
+"forkCount": 3,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -24973,11 +24973,11 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T07:22:39Z",
+"pushedAt": "2026-11-23T08:32:49Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 408
+"stargazerCount": 409
 },
 "datadog-labs/claude-code-plugin": {
 "description": "Home of the Datadog plugin for Claude Code",
@@ -25289,7 +25289,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-18T15:41:02Z",
+"pushedAt": "2026-11-23T11:06:12Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -25487,7 +25487,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-20T14:47:51Z",
+"pushedAt": "2026-11-23T13:32:15Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -25620,20 +25620,20 @@
 },
 "davila7/claude-code-templates": {
 "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
-"forkCount": 4089,
+"forkCount": 4102,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "davila7/claude-code-templates",
-"openGraphImageUrl": "https://opengraph.githubassets.com/fd9722c627b9dd422a389030c38d3908e1ed499bef0b0a3ffa40a0d41ab60aad/davila7/claude-code-templates",
+"openGraphImageUrl": "https://opengraph.githubassets.com/7c8694b59fd8715e094e3f4d9d19b28048ae153500ed144d25062ad705b41b11/davila7/claude-code-templates",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/6216945?s=160&u=9cea1838e2bdb1dbfbdb657cf54d1166bd52fc0b&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T03:10:26Z",
+"pushedAt": "2026-11-23T04:21:06Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -25678,7 +25678,7 @@
 }
 ]
 },
-"stargazerCount": 34088
+"stargazerCount": 34131
 },
 "daxgoon/tula": {
 "description": "LLM-native code quality, security, and documentation analysis on a 1000-point scale",
@@ -27282,7 +27282,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T11:30:55Z",
+"pushedAt": "2026-11-23T12:54:04Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -27342,7 +27342,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/6462208?s=160&u=b0444bd49a7b6443d742f9b385bcca14573a56ce&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-10-14T16:38:22Z",
+"pushedAt": "2026-11-23T09:13:27Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -27899,14 +27899,14 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "docker/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/2eaf14157c19dbfc5f941f553f6440942146e5a92fca68ccd68662f8e2a9fa94/docker/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/d2a1d2a8db3cd51d7db3039461457694ba67c55f374e927c56aa1e32836af8c4/docker/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/5429470?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-19T07:51:51Z",
+"pushedAt": "2026-11-23T15:24:49Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -27951,7 +27951,7 @@
 }
 ]
 },
-"stargazerCount": 647
+"stargazerCount": 649
 },
 "docusealco/docuseal-agent-skills": {
 "description": "DocuSeal's official collection of agent skills",
@@ -28090,7 +28090,7 @@
 },
 "dollardill/beads-superpowers": {
 "description": "Superpowers & Beads task memory for AI coding agents - supports Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, Kimi Code, Antigravity, Factory Droid, and Pi.",
-"forkCount": 6,
+"forkCount": 7,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -28148,7 +28148,7 @@
 }
 ]
 },
-"stargazerCount": 32
+"stargazerCount": 33
 },
 "dominodatalab/domino-claude-plugin": {
 "description": "Deprecated: moved to dominodatalab/domino-ai-plugin",
@@ -28982,7 +28982,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "duckdb/duckdb-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/5c6835abf3ce2f013f07523cc4a68c71310948d9d211f62e34d00fadd7a963b9/duckdb/duckdb-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/39a9bd2a1626d9ffa90b1576650027344e77dbde149f4a0048ed73f83f6f1a78/duckdb/duckdb-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/82039556?s=160&v=4"
 },
@@ -28993,7 +28993,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 619
+"stargazerCount": 622
 },
 "duda-co/duda-plugin": {
 "description": null,
@@ -29234,7 +29234,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "Dynatrace/dynatrace-for-ai",
-"openGraphImageUrl": "https://opengraph.githubassets.com/118e83006b35edccb94c343bffcaf5489a0254884a91308912993d9ec2b937b7/Dynatrace/dynatrace-for-ai",
+"openGraphImageUrl": "https://opengraph.githubassets.com/3005a8d0202000bb32d8e10682f52ca3f13164d508ed428791a987f8cccea56e/Dynatrace/dynatrace-for-ai",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/6412311?s=160&v=4"
 },
@@ -29286,7 +29286,7 @@
 }
 ]
 },
-"stargazerCount": 186
+"stargazerCount": 187
 },
 "dz1922/claude-notify": {
 "description": "Notification center plugin for Claude Code \u2014 desktop, Telegram, Slack, Teams, Lark, webhook. Install and it just works.",
@@ -29492,7 +29492,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/1253129?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-13T06:39:05Z",
+"pushedAt": "2026-11-23T14:24:47Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -29796,7 +29796,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/319618537?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-09-28T10:17:28Z",
+"pushedAt": "2026-11-23T11:33:15Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -29926,7 +29926,7 @@
 },
 "eigenwise/atomic-agents": {
 "description": "Building AI agents, atomically",
-"forkCount": 566,
+"forkCount": 567,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -29979,7 +29979,7 @@
 }
 ]
 },
-"stargazerCount": 6345
+"stargazerCount": 6346
 },
 "ej-technologies/jprofiler-mcp": {
 "description": "MCP server for JProfiler",
@@ -30048,7 +30048,7 @@
 "nameWithOwner": "elarsaks/local-lore",
 "openGraphImageUrl": "https://opengraph.githubassets.com/4afddd8c1c909c894c75213f0a61879f753de7758a85a4cfed06e1ebe90ac990/elarsaks/local-lore",
 "owner": {
-"avatarUrl": "https://avatars.githubusercontent.com/u/15647776?s=160&u=878011a8e5e09952a0d4acc24aa999e0e260690f&v=4"
+"avatarUrl": "https://avatars.githubusercontent.com/u/15647776?s=160&u=c351164f111ebdbb7dd15f724e1bf10ac64adca8&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
@@ -30115,7 +30115,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-21T01:43:16Z",
+"pushedAt": "2026-11-23T01:41:57Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -30514,7 +30514,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-14T20:45:04Z",
+"pushedAt": "2026-11-22T16:57:29Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -30730,7 +30730,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "EodHistoricalData/eodhd-claude-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/52c38251b47254aada0b3149b9398c7aae5db0dca6f33ceabad227328e955d83/EodHistoricalData/eodhd-claude-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/680b501620381fd0629598a9a291a5b15f3e163860b487602661be2f2d91b923/EodHistoricalData/eodhd-claude-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/33543530?s=160&v=4"
 },
@@ -30782,7 +30782,7 @@
 }
 ]
 },
-"stargazerCount": 51
+"stargazerCount": 52
 },
 "eon-io/claude-code-eon-plugin": {
 "description": null,
@@ -30855,13 +30855,13 @@
 },
 "epicgames/unreal-engine-skills-for-claude-code-plugin": {
 "description": null,
-"forkCount": 210,
+"forkCount": 211,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "EpicGames/unreal-engine-skills-for-claude-code-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/6120ac12f657e6f10549170eb4607d86aecb0b27f8a1cae6738cd503859070bc/EpicGames/unreal-engine-skills-for-claude-code-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/03571c54dc6c1de25c66dbb4560d11b2e19e524ee1bddae8f1d7f7f9b43a6013/EpicGames/unreal-engine-skills-for-claude-code-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/6615685?s=160&v=4"
 },
@@ -30872,7 +30872,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 2009
+"stargazerCount": 2017
 },
 "epogonii/ccfind": {
 "description": "Full-text BM25 search across your past Claude Code sessions. Finds the conversation where something was actually discussed and hands you the command to resume it. Fully local.",
@@ -31518,13 +31518,13 @@
 },
 "exa-labs/exa-mcp-server": {
 "description": "Exa MCP for web search and web crawling!",
-"forkCount": 413,
+"forkCount": 412,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "exa-labs/exa-mcp-server",
-"openGraphImageUrl": "https://opengraph.githubassets.com/0b52d4ca476871e5aa1233fa36e66884c9626dc162cd67166fb1e30867cc0cfa/exa-labs/exa-mcp-server",
+"openGraphImageUrl": "https://opengraph.githubassets.com/3852e92948e4a7bb8c98fd5e18ab8b9a88e23a92a23d7c8e5bbb74d0d9563914/exa-labs/exa-mcp-server",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/77906174?s=160&v=4"
 },
@@ -31576,7 +31576,7 @@
 }
 ]
 },
-"stargazerCount": 5256
+"stargazerCount": 5264
 },
 "exovian-developments/waves-cowork-plugin": {
 "description": "[OBSOLETE] Historical only \u2014 superseded by Exovian's closed, token-gated distribution (ADR-0004). Not maintained.",
@@ -31614,7 +31614,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T03:43:59Z",
+"pushedAt": "2026-11-22T22:24:51Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -31628,7 +31628,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "explorium-ai/vibeprospecting-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/dd559d6f37e712af05b0c872b4e037ea226cb9fe3f73ebe4eb1d872c60d876de/explorium-ai/vibeprospecting-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/d1a6e24039a9d775c0ce490deacd3f0b48302e486ae4e6e62154309fd9de901b/explorium-ai/vibeprospecting-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/48208778?s=160&v=4"
 },
@@ -31680,7 +31680,7 @@
 }
 ]
 },
-"stargazerCount": 298
+"stargazerCount": 299
 },
 "expo/skills": {
 "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
@@ -31690,7 +31690,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "expo/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/84ef5057832d5f232fd8806e0e13c7e4d873293b0da73e0dd2a6848aabb00ae5/expo/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/c31b398f52f83c2e4b54a56b09190c26211533869a3b3d3536e1e2314bb42656/expo/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/12504344?s=160&v=4"
 },
@@ -31701,7 +31701,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 4210
+"stargazerCount": 4222
 },
 "extend-hq/extend-agent-plugin": {
 "description": "Extend document processing for agents: plugin bundling the hosted Extend MCP server with platform and CLI skills (Agent Plugins + Claude plugin formats)",
@@ -31967,13 +31967,13 @@
 },
 "ezrover/esp32-ai-agent-skill": {
 "description": "ESP32 Family agent skills for IDF and PlatformIO based programming, electronic schematic and PCB layout",
-"forkCount": 11,
+"forkCount": 10,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "ezrover/ESP32-AI-Agent-Skill",
-"openGraphImageUrl": "https://opengraph.githubassets.com/5a2ae2eeb75bdd68b18abedc60f54ef7c81f2ca799724ae720bdf011203bc5ae/ezrover/ESP32-AI-Agent-Skill",
+"openGraphImageUrl": "https://opengraph.githubassets.com/2d375c69a66f71746fb26e2afb96d76b73fe6e863a04bb1e762c4124ff06edce/ezrover/ESP32-AI-Agent-Skill",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/1473932?s=160&u=0b716ef90822ba79538da0fc1d261a3a047f935f&v=4"
 },
@@ -31984,7 +31984,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 59
+"stargazerCount": 60
 },
 "facade-ui/skill": {
 "description": "Claude Code skill: build accessible marketing pages with Facade UI sections and templates via the shadcn CLI",
@@ -32709,7 +32709,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T20:18:16Z",
+"pushedAt": "2026-11-23T15:43:20Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -32762,7 +32762,7 @@
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "figma/mcp-server-guide",
-"openGraphImageUrl": "https://opengraph.githubassets.com/815278b1f41a82102690012d063e9d9009c0d5134d3ce75d7fde262f5d7664a5/figma/mcp-server-guide",
+"openGraphImageUrl": "https://opengraph.githubassets.com/91aafa2d967cfd97165cdc0d2140c1d002e256b41827abff879cdc920289be4a/figma/mcp-server-guide",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/5155369?s=160&v=4"
 },
@@ -32773,7 +32773,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 2223
+"stargazerCount": 2226
 },
 "filestack/filestack-claude-plugin": {
 "description": "Official Claude Code plugin for [Filestack](https://www.filestack.com) \u2014 upload files, build transformations, and generate security policies directly from Claude Code.",
@@ -33038,13 +33038,13 @@
 },
 "firecrawl/firecrawl-claude-plugin": {
 "description": "Firecrawl plugin for Claude Code: search the live web, developer docs, government sources and research papers, run structured data providers, and scrape a page into clean Markdown. Firecrawl is the context API for AI agents.",
-"forkCount": 40,
+"forkCount": 41,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "firecrawl/firecrawl-claude-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/61f3352a8d8a8c400b0aafb12e915f321451d77b6305ad00d56954eeacc289d1/firecrawl/firecrawl-claude-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b5f16c876a075f86a14a720e51fe64ab2c4d9caaf1352957d1248fc1cc2ea96c/firecrawl/firecrawl-claude-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/135057108?s=160&v=4"
 },
@@ -33089,7 +33089,7 @@
 }
 ]
 },
-"stargazerCount": 264
+"stargazerCount": 266
 },
 "firetiger-oss/claude-plugin": {
 "description": "Claude Code plugin for Firetiger",
@@ -33609,13 +33609,13 @@
 },
 "flutter/agent-plugins": {
 "description": null,
-"forkCount": 194,
+"forkCount": 195,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "BSD-3-Clause"
 },
 "nameWithOwner": "flutter/agent-plugins",
-"openGraphImageUrl": "https://opengraph.githubassets.com/1953916d4106253e1f71151e7b02bba486b5684277cc7051d424a4613c4eb68f/flutter/agent-plugins",
+"openGraphImageUrl": "https://opengraph.githubassets.com/6972c1409e068a42c8a6760162cc56b5fdef80b81e3fab048a502fa49ddbd6b6/flutter/agent-plugins",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/14101776?s=160&v=4"
 },
@@ -33626,7 +33626,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 3197
+"stargazerCount": 3205
 },
 "flybestorg-cyber/flybest-connector": {
 "description": "FlyBest MCP server \u2014 AI travel booking for Claude & ChatGPT: live hotel rates with preferred travel-advisor benefits (daily breakfast, hotel credit, upgrades) on top of your own hotel points and status. Run by Jay Yan, Virtuoso advisor with Coastline Travel Advisors, a licensed agency (CST 2040360-40). Free; hotels only.",
@@ -33641,7 +33641,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/268139257?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-18T00:29:44Z",
+"pushedAt": "2026-11-23T11:25:23Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -33736,7 +33736,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "forcedotcom/sf-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/04ea289e321483fe8a0a2a727e40e8e2929d1d676598208227a86a47ffa13aa2/forcedotcom/sf-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/801021b917bcb254083184a6d2b01a4d755b1553312967f37f544e27e2a38ecb/forcedotcom/sf-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/464563?s=160&v=4"
 },
@@ -33747,24 +33747,24 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 1183
+"stargazerCount": 1185
 },
 "formify-e-sign/formify-skills": {
-"description": "AI agent skills for SMB e-signing and document workflows \u2014 build fillable PDF forms, send contracts for electronic signature, verify signers with BankID or an ID scan, and track everything after the send. Works with Claude, ChatGPT, Codex, Cursor and ~25 agents via MCP.",
+"description": "AI agent skills for SMB e-signing \u2014 build fillable PDF forms, send contracts for signature, publish a public signing link your website's form can prefill, verify signers with BankID or an ID scan, and track everything after the send. Claude, ChatGPT, Codex, Cursor via MCP.",
 "forkCount": 0,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "formify-e-sign/formify-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/e46f43c02624692cfb5daca4beddbdcebf58d00c553780931d784870a3c09134/formify-e-sign/formify-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/5b9e8e10e0c24c33703c571984240bc669c415db347b942a2dac51d200993722/formify-e-sign/formify-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/280040861?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "HTML"
 },
-"pushedAt": "2026-11-12T14:51:07Z",
+"pushedAt": "2026-11-23T13:01:03Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -33789,11 +33789,6 @@
 },
 {
 "topic": {
-"name": "document-workflow"
-}
-},
-{
-"topic": {
 "name": "e-signing"
 }
 },
@@ -33805,6 +33800,11 @@
 {
 "topic": {
 "name": "electronic-signature"
+}
+},
+{
+"topic": {
+"name": "esignature"
 }
 }
 ]
@@ -34199,7 +34199,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "freee/freee-mcp",
-"openGraphImageUrl": "https://opengraph.githubassets.com/f06f06dee0ca58d9c488dad1d60e2e18a8b458e60899388f21039b66603ff3dc/freee/freee-mcp",
+"openGraphImageUrl": "https://opengraph.githubassets.com/da77282074db650a8db6e780123b00fbdfddaa6405d64d528cc8f603d3de0a15/freee/freee-mcp",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/13896447?s=160&v=4"
 },
@@ -34210,7 +34210,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 521
+"stargazerCount": 522
 },
 "fullenrich/fullenrich-skills": {
 "description": "List of skills.md for Claude. Usage for Claude, MCP and Plugin",
@@ -34713,7 +34713,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-22T09:15:57Z",
+"pushedAt": "2026-11-23T09:58:31Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -34829,7 +34829,7 @@
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "GarethManning/education-agent-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/df2f915ea7a382088fac18e1d376cc9ab886df7d59da27db445ec0f3f5a1ec46/GarethManning/education-agent-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/7607a1bcf19f61174f39facc4b1100d0d3a8bbd043b47e93bcc4f696bdfdf524/GarethManning/education-agent-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/201359850?s=160&u=57d4611e3933e1a8f6dcd73e2004ac0f5e5aa514&v=4"
 },
@@ -34881,7 +34881,7 @@
 }
 ]
 },
-"stargazerCount": 1013
+"stargazerCount": 1015
 },
 "garg-aayush/cv-skills": {
 "description": null,
@@ -34912,14 +34912,14 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "GaZmagik/iso-24495",
-"openGraphImageUrl": "https://opengraph.githubassets.com/163d9be86dd3a99047c8fbdbd0b1236eaaaa09d70b5766a2f0c46959f837b729/GaZmagik/iso-24495",
+"openGraphImageUrl": "https://opengraph.githubassets.com/1952ad5df1c30fce59f3402d8af4bed0f462f1d3fd42cd2823fc0db074e221f5/GaZmagik/iso-24495",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/379258?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-22T11:26:49Z",
+"pushedAt": "2026-11-23T12:44:42Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -34964,7 +34964,7 @@
 }
 ]
 },
-"stargazerCount": 213
+"stargazerCount": 214
 },
 "gc-ai-inc/gc-ai-claude-plugin": {
 "description": "Work in your GC AI legal knowledge base from Claude. Upload documents, run review playbooks, and ask questions grounded in your own files, all as you.",
@@ -35401,18 +35401,18 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "GoogleCloudPlatform/data-agent-kit-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/6fced0a2b0fad59a4f44b79f9564186410d1fa325cd084b3d04bccceae4fd3ae/GoogleCloudPlatform/data-agent-kit-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/e3f92d75c5db38bf6debe32edffe80bfe19900ca16ac363778775370d55e790b/GoogleCloudPlatform/data-agent-kit-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/2810941?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-20T18:57:01Z",
+"pushedAt": "2026-11-23T05:05:39Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 252
+"stargazerCount": 253
 },
 "gemini-cli-extensions/dataproc": {
 "description": "Skills for Dataproc",
@@ -35669,7 +35669,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/2810941?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-10T18:08:00Z",
+"pushedAt": "2026-11-22T19:35:55Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -36272,7 +36272,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-20T15:46:48Z",
+"pushedAt": "2026-11-23T10:30:25Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -36499,7 +36499,7 @@
 }
 ]
 },
-"stargazerCount": 12
+"stargazerCount": 13
 },
 "getsentry/cli": {
 "description": "Sentry CLI",
@@ -36890,13 +36890,13 @@
 },
 "github/github-mcp-server": {
 "description": "GitHub's official MCP Server",
-"forkCount": 5398,
+"forkCount": 5413,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "github/github-mcp-server",
-"openGraphImageUrl": "https://opengraph.githubassets.com/4237ca4dd0d28d9241dfdec947da122316e765eef6f20bf4918de32a3bd1e97d/github/github-mcp-server",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ec18fa46d7255cf72b02a433f12aa18bcb2e31e12524d12bb1f7fa2b621c5f79/github/github-mcp-server",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/9919?s=160&v=4"
 },
@@ -36923,7 +36923,7 @@
 }
 ]
 },
-"stargazerCount": 34667
+"stargazerCount": 34690
 },
 "gitkraken/claude-plugin": {
 "description": null,
@@ -36952,7 +36952,7 @@
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "gitroomhq/postiz-agent",
-"openGraphImageUrl": "https://opengraph.githubassets.com/789860379824b5222e27e5c772ef056662ae0c3b396ce9fe34608c4720ec5355/gitroomhq/postiz-agent",
+"openGraphImageUrl": "https://opengraph.githubassets.com/5dc4fda6bb4cf622761a1621a62a9a136bafb03d5f026943dd97887f9db819f6/gitroomhq/postiz-agent",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/128401275?s=160&v=4"
 },
@@ -37004,7 +37004,7 @@
 }
 ]
 },
-"stargazerCount": 587
+"stargazerCount": 589
 },
 "gizele1/harness-init": {
 "description": "OpenAI harness engineering repo initialization scaffold for agent-first development. Works with Claude Code, Codex, Cursor.",
@@ -37545,22 +37545,22 @@
 },
 "googlechrome/modern-web-guidance": {
 "description": "Keep your coding agent up to date with the latest web best practices",
-"forkCount": 1041,
+"forkCount": 1074,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "GoogleChrome/modern-web-guidance",
-"openGraphImageUrl": "https://opengraph.githubassets.com/4442896db76c713e735f401cae709e57013eed4f26b476628c2f7878959560e7/GoogleChrome/modern-web-guidance",
+"openGraphImageUrl": "https://opengraph.githubassets.com/2ce07dd7718c1d4d81b3f0dbea950522074d23cd40992206cb706fca7cd8c80c/GoogleChrome/modern-web-guidance",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/1778935?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-17T18:41:16Z",
+"pushedAt": "2026-11-23T14:54:26Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 24836
+"stargazerCount": 25405
 },
 "gopigment/ai-plugins": {
 "description": "Pigment plugins for AI",
@@ -37776,14 +37776,16 @@
 "description": "Grasp plugin for Claude \u2014 deal-work skills backed by the hosted Grasp MCP server.",
 "forkCount": 0,
 "isArchived": false,
-"licenseInfo": null,
+"licenseInfo": {
+"spdxId": "MIT"
+},
 "nameWithOwner": "grasp-ai/grasp-mcp-plugin",
 "openGraphImageUrl": "https://opengraph.githubassets.com/a2a69383538abb35f49c464feac2ef8ec2656ff8de6b684ae3ca0a47e34501ca/grasp-ai/grasp-mcp-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/85107453?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-18T10:14:55Z",
+"pushedAt": "2026-11-23T15:24:03Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -38051,7 +38053,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-20T23:22:04Z",
+"pushedAt": "2026-11-23T06:17:00Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -38189,7 +38191,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/180961539?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-20T15:37:47Z",
+"pushedAt": "2026-11-23T10:40:46Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -38329,7 +38331,7 @@
 },
 "gvzq/githubclip": {
 "description": "Agent orchestration with persona-based task routing for Claude Code. Supports GitHub Projects (primary) forked from woterclip.",
-"forkCount": 0,
+"forkCount": 1,
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "gvzq/githubclip",
@@ -40235,7 +40237,7 @@
 },
 "hesreallyhim/awesome-claude-code": {
 "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
-"forkCount": 5000,
+"forkCount": 5004,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "NOASSERTION"
@@ -40248,7 +40250,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T12:08:21Z",
+"pushedAt": "2026-11-23T15:06:38Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -40293,7 +40295,7 @@
 }
 ]
 },
-"stargazerCount": 58570
+"stargazerCount": 58657
 },
 "hetcreep/coalmine": {
 "description": "Nine quality-canary skills for AI coding agents - code health, world-class rule completeness, grounding, supply chain, resilience, drift & more - plus the auto-cadence hooks that run them unprompted at session start and session end. Cross-agent, consent-gated, token-lean.",
@@ -40310,7 +40312,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T11:37:09Z",
+"pushedAt": "2026-11-23T15:46:52Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -40757,7 +40759,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-19T04:18:19Z",
+"pushedAt": "2026-11-22T15:34:30Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -40873,7 +40875,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T06:10:58Z",
+"pushedAt": "2026-11-23T08:31:06Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -41052,24 +41054,24 @@
 },
 "huggingface/skills": {
 "description": "Give your agents the power of the Hugging Face ecosystem",
-"forkCount": 801,
+"forkCount": 800,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "huggingface/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/7b7f1ec774e1084d48c2b91d3773d92108366f2a69dd1015c8ac905debd0e4fa/huggingface/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ca39a565c8cda72bbf6dfb1c1be608ae63d735ced7ca5749e6d0dd9f7e652e2a/huggingface/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-20T23:41:21Z",
+"pushedAt": "2026-11-23T15:20:48Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 11380
+"stargazerCount": 11388
 },
 "humanleap/toolrouter-mcp": {
 "description": "The OpenRouter for tools. One MCP connection gives any AI agent 250+ hosted tools, pay per call.",
@@ -41324,14 +41326,14 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "hyperfx-ai/marketing-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/2d695a7db295543488f8fc596117d4d960a1d263abf3b2e3880ba7b65eb6ec82/hyperfx-ai/marketing-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/02204921e5be8aa40f1d21a2fa321328f92e00db0bbd26bca4a257b768655d92/hyperfx-ai/marketing-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/250882987?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T17:06:20Z",
+"pushedAt": "2026-11-23T02:34:37Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -41376,7 +41378,7 @@
 }
 ]
 },
-"stargazerCount": 116
+"stargazerCount": 118
 },
 "hyunmin625/claude-hwp-plugin": {
 "description": "Claude Code Plugin for controlling HWP/HWPX Korean word processor files",
@@ -41431,7 +41433,7 @@
 },
 "i-afaqrashid/claude-animation-studio": {
 "description": "Claude Code plugin: animated short films where every frame is drawn in code and the music is synthesized in code, perfectly synced.",
-"forkCount": 1,
+"forkCount": 2,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "NOASSERTION"
@@ -42195,7 +42197,7 @@
 },
 "ilyagorsky/memory-toolkit": {
 "description": "From session to memory to repo docs: carries your work across Claude Code sessions and turns what you learn into docs and rules \u2014 for you, your agent, and your team. Handoffs, workstreams, curated markdown.",
-"forkCount": 2,
+"forkCount": 3,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -42270,7 +42272,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T12:45:53Z",
+"pushedAt": "2026-11-23T11:00:08Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -42452,7 +42454,7 @@
 },
 "impactbrussels/ainativeos": {
 "description": "The open OS for building an AI-native company in hard-mode sectors. A 15-chapter Handbook, a 90-term Dictionary, and 24 runnable skills for Claude Code, Codex, Cursor, and Gemini. CC-BY-4.0 / Apache-2.0.",
-"forkCount": 1,
+"forkCount": 2,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -42670,7 +42672,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-11T13:45:25Z",
+"pushedAt": "2026-11-23T06:35:08Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -42684,7 +42686,7 @@
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "imshaikot/app-preview-craft-skill",
-"openGraphImageUrl": "https://opengraph.githubassets.com/323d83e38e725c5cc40415f4bb0823cba1796f29339d027596d9e28a38f655d5/imshaikot/app-preview-craft-skill",
+"openGraphImageUrl": "https://opengraph.githubassets.com/5393cf27695400ce6d7a853c5d27313da51ceed4d92bca5c19c51e07e8df18b8/imshaikot/app-preview-craft-skill",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/2652061?s=160&u=c098f9ca838435d3f42960791c748425708f2559&v=4"
 },
@@ -42736,7 +42738,7 @@
 }
 ]
 },
-"stargazerCount": 8
+"stargazerCount": 9
 },
 "imshaikot/render-visual-skill": {
 "description": "An agent-skill & plugin to render programmable visuals (images & animations) for Claude Code, Cursor, Copilot, Codex & others",
@@ -42836,7 +42838,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-03T16:47:59Z",
+"pushedAt": "2026-11-23T01:56:07Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -42891,7 +42893,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/333846661?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-19T19:56:25Z",
+"pushedAt": "2026-11-23T14:26:33Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -42918,7 +42920,7 @@
 },
 "incident-io/skills": {
 "description": "Official incident.io skills marketplace: plugins for Claude Code and other agents",
-"forkCount": 2,
+"forkCount": 3,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -43263,7 +43265,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "insideout-ai/make-it-work",
-"openGraphImageUrl": "https://opengraph.githubassets.com/337926bc10bc221c708dacc0cb24c5c577a27edf300d9af98be9047040e701ac/insideout-ai/make-it-work",
+"openGraphImageUrl": "https://opengraph.githubassets.com/7de3512539085055c9376a6d5da42b2662a6d6a5586ae0ddf767f9e2029e6a04/insideout-ai/make-it-work",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/281340855?s=160&v=4"
 },
@@ -43315,7 +43317,7 @@
 }
 ]
 },
-"stargazerCount": 12
+"stargazerCount": 14
 },
 "insitu-sales/insitusales-agent-plugin": {
 "description": null,
@@ -43645,7 +43647,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "InterfaceX-co-jp/genshijin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/d607ab7a69e10e8e6b97c3d783bb992daef1cd76d0a5c9e40bfe714bbeb9b8a1/InterfaceX-co-jp/genshijin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/fca084816544137bc79bc1c7d6779e6af3a51982ac7ab4fab4e3a91e22684af6/InterfaceX-co-jp/genshijin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/84321281?s=160&v=4"
 },
@@ -43687,7 +43689,7 @@
 }
 ]
 },
-"stargazerCount": 335
+"stargazerCount": 336
 },
 "interfere-inc/plugins": {
 "description": "Interfere plugins for Claude Code, Cursor, and Codex.",
@@ -43984,7 +43986,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "ionos-cloud/ionoscloud-mcp",
-"openGraphImageUrl": "https://opengraph.githubassets.com/175e388526c90b16f5c76f93eb3e500c79b8c4a617731c8ba58e094d600f21b6/ionos-cloud/ionoscloud-mcp",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b741f2d9ab04f7689ed1145e68c5e1238857b5cf8944e89d37e94a5f9a3d72f8/ionos-cloud/ionoscloud-mcp",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/67323449?s=160&v=4"
 },
@@ -44011,7 +44013,7 @@
 }
 ]
 },
-"stargazerCount": 13
+"stargazerCount": 12
 },
 "iqland-ai/iqland-claude-plugin": {
 "description": null,
@@ -44197,7 +44199,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "ironyjk/strategy-frameworks",
-"openGraphImageUrl": "https://opengraph.githubassets.com/0ee3ffc94e803321ba6f750c6b69932ecd2522686bb4a935401ec7920dcea8e6/ironyjk/strategy-frameworks",
+"openGraphImageUrl": "https://opengraph.githubassets.com/0e00b0b82a743ad82d5fc0898af0a1a404c2e3852f4e76697d1b78dac7ee4846/ironyjk/strategy-frameworks",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/1086912?s=160&v=4"
 },
@@ -44249,7 +44251,7 @@
 }
 ]
 },
-"stargazerCount": 45
+"stargazerCount": 46
 },
 "isanthoshgandhi/foresight-engine": {
 "description": "Strategic foresight engine using IFTF methodology. Soft Predict (Claude-native) + Hard Predict (deterministic Python chain). Drivers, cross-impact, backcasting, four-scenario reports.",
@@ -44883,7 +44885,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "IuriiTurok/auto-model-router",
-"openGraphImageUrl": "https://opengraph.githubassets.com/620e8eee4a3538f7c50a2ac1a86592f61fa0456f9afcff8d42dde12f99330835/IuriiTurok/auto-model-router",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ae832bbc151b8322193d86c56cb7c00ae1136fe078cd28e7e54b3f44b76fd3d4/IuriiTurok/auto-model-router",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/44369254?s=160&u=31dc37c7bf1dd7aee5ed5de906d7c9534a6f551f&v=4"
 },
@@ -44894,7 +44896,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 2
+"stargazerCount": 3
 },
 "ivannovosad/codehog": {
 "description": null,
@@ -44923,7 +44925,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "ivar-anon/roblox-dev",
-"openGraphImageUrl": "https://opengraph.githubassets.com/aa9b9c5b3486a37c69810ecf879b2d820d120f156d9b607f518f15fc3b2158d9/ivar-anon/roblox-dev",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b045a2d8581d910f81468a7557c216afb375fc366dea8a16d430c4b16af74047/ivar-anon/roblox-dev",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/312812290?s=160&v=4"
 },
@@ -44934,7 +44936,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 6
+"stargazerCount": 7
 },
 "ivorycanvas/qamap": {
 "description": "Local pull-request review brief for coding agents: the diff, the tests and callers of changed code, and change signals in one report. No LLM call, no upload. Claude Code used 44% fewer tokens with it on 42 public PRs.",
@@ -44951,7 +44953,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-19T07:54:51Z",
+"pushedAt": "2026-11-23T10:47:49Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -45069,7 +45071,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "Jaan-Mustafa/10x-Team",
-"openGraphImageUrl": "https://opengraph.githubassets.com/76ea2e98e276f7f1f62dec33dcd86bba89de6f9522c2c3ae8578c62ce1877123/Jaan-Mustafa/10x-Team",
+"openGraphImageUrl": "https://opengraph.githubassets.com/3852e92948e4a7bb8c98fd5e18ab8b9a88e23a92a23d7c8e5bbb74d0d9563914/Jaan-Mustafa/10x-Team",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/123554945?s=160&u=4de2f4312dc362df87d058a05c1c4b2d74b833b8&v=4"
 },
@@ -45121,7 +45123,7 @@
 }
 ]
 },
-"stargazerCount": 18
+"stargazerCount": 20
 },
 "jackasser/drillspark-workflow-toolkit": {
 "description": null,
@@ -45176,7 +45178,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/193763723?s=160&u=a8a46c9120d2b6c8f3beec6f55b926f0683dfb6c&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-16T00:57:24Z",
+"pushedAt": "2026-11-23T01:22:08Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -46088,7 +46090,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/5512028?s=160&u=b2926a3224a413c6999e8bafafa969ff2d547631&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-09T07:34:03Z",
+"pushedAt": "2026-11-23T10:49:29Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -46427,7 +46429,7 @@
 "primaryLanguage": {
 "name": "Go"
 },
-"pushedAt": "2026-11-18T20:04:06Z",
+"pushedAt": "2026-11-23T15:28:58Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -46651,7 +46653,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-19T21:00:47Z",
+"pushedAt": "2026-11-23T14:11:46Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -48280,7 +48282,7 @@
 "primaryLanguage": {
 "name": "CSS"
 },
-"pushedAt": "2026-10-30T11:01:57Z",
+"pushedAt": "2026-11-23T11:54:01Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -48532,7 +48534,7 @@
 },
 "justice8096/dyslexia-support-skill": {
 "description": "Evidence based dyslexia standards compliance, remediation, document generation, and gap analysis skill plugin",
-"forkCount": 0,
+"forkCount": 1,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "CC0-1.0"
@@ -48693,7 +48695,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/193763723?s=160&u=a8a46c9120d2b6c8f3beec6f55b926f0683dfb6c&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-16T00:57:28Z",
+"pushedAt": "2026-11-23T01:22:11Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -48714,7 +48716,7 @@
 "primaryLanguage": {
 "name": "Kotlin"
 },
-"pushedAt": "2026-11-19T18:25:32Z",
+"pushedAt": "2026-11-23T15:17:02Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -48803,7 +48805,7 @@
 "primaryLanguage": {
 "name": "Rust"
 },
-"pushedAt": "2026-11-21T04:28:53Z",
+"pushedAt": "2026-11-22T21:33:15Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -48886,7 +48888,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-18T22:18:38Z",
+"pushedAt": "2026-11-22T21:39:30Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -48981,7 +48983,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "KaguraTart/paper-to-course",
-"openGraphImageUrl": "https://opengraph.githubassets.com/a98be459d2496244b3b2376396057630085a946d4b81a6bf3ef3d71d174f6dc8/KaguraTart/paper-to-course",
+"openGraphImageUrl": "https://opengraph.githubassets.com/924443a0e4bd2ac6ce7e3a348b1a1211761a92174285d863d09c0b29f0c80e4d/KaguraTart/paper-to-course",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/49972575?s=160&u=36495cd3bfd44f37401297d8eb14644c677d5e44&v=4"
 },
@@ -48992,7 +48994,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 39
+"stargazerCount": 40
 },
 "kalatsch/claude-activity": {
 "description": "Local heatmap of Claude Code usage \u2014 hour \u00d7 day grid with project/session breakdown. Plugin + standalone CLI.",
@@ -50418,7 +50420,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T20:20:41Z",
+"pushedAt": "2026-11-23T05:25:38Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -50439,7 +50441,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-21T20:20:35Z",
+"pushedAt": "2026-11-23T05:25:29Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -50501,7 +50503,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T20:20:18Z",
+"pushedAt": "2026-11-23T05:25:25Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -50824,7 +50826,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T08:30:50Z",
+"pushedAt": "2026-11-23T08:43:48Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -51304,7 +51306,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-20T18:45:54Z",
+"pushedAt": "2026-11-23T13:37:50Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -51806,7 +51808,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-22T11:52:30Z",
+"pushedAt": "2026-11-23T13:58:31Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -52302,13 +52304,13 @@
 },
 "langfuse/skills": {
 "description": "Agent Skills for Langfuse, the open source LLM engineering platform for tracing, prompt management, and evaluation",
-"forkCount": 46,
+"forkCount": 47,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "langfuse/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/5aa5b00678908299bc226eae50541b2112191203433c3b0327fa4d0d5320b3bf/langfuse/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/c49fa9df1d436ecf9c72ffca5f9432e4e6b067724cd33d6ae46f9734f7ece899/langfuse/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/134601687?s=160&v=4"
 },
@@ -52345,7 +52347,7 @@
 }
 ]
 },
-"stargazerCount": 344
+"stargazerCount": 346
 },
 "larens94/codedna": {
 "description": "A lightweight annotation standard that helps AI agents navigate codebases faster, with fewer file reads and tool calls",
@@ -52570,21 +52572,21 @@
 "stargazerCount": 3
 },
 "lawzava/megapowers": {
-"description": "One plugin for Claude Code and Codex: task skills, an output style, a destructive-command tripwire, and a doctor. Measured, not vibed.",
+"description": "Coding agents edit before they know the cause and say \"done\" without re-running the tests. A Claude Code and Codex plugin with a short playbook for each step they skip.",
 "forkCount": 1,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "lawzava/megapowers",
-"openGraphImageUrl": "https://opengraph.githubassets.com/6cbd72957dbf43933796fe1e2fb25eda2e12a01cd53bf272caf62ffb95cb4cd9/lawzava/megapowers",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ffbf95829e449a7d76142b37585d8a33f9881c3940722d1074880b9268117a1b/lawzava/megapowers",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/19802246?s=160&u=eb4b1b00fe13b6568bd95c38e98c8bf64cfc3e15&v=4"
 },
 "primaryLanguage": {
 "name": "Go"
 },
-"pushedAt": "2026-11-21T10:56:27Z",
+"pushedAt": "2026-11-23T15:55:52Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -52629,7 +52631,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "lcapossio/hdldiagZero",
-"openGraphImageUrl": "https://opengraph.githubassets.com/09d55dbf8c533097ec48855a388e54a4e1016adabd1d0adde61fe8df35c12a24/lcapossio/hdldiagZero",
+"openGraphImageUrl": "https://opengraph.githubassets.com/3a5fa201dcfc4a5eeb41faaabf874048591cb5e08acfbf174a29eb8cf7126c3f/lcapossio/hdldiagZero",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/5991847?s=160&u=8d281cdddf0c1c447900efa5c0b6c49d23d8de97&v=4"
 },
@@ -52681,7 +52683,7 @@
 }
 ]
 },
-"stargazerCount": 30
+"stargazerCount": 31
 },
 "lead411/lead411-mcp-plugin": {
 "description": "Connect Claude Code + Cowork to Lead411 MCP via this plugin ",
@@ -52938,13 +52940,13 @@
 },
 "leiverkus/research-superpowers": {
 "description": "Skill-driven research workflow for Claude Code: theology, biblical archaeology, ancient history, digital humanities. Methodology-aware (hermeneutic / quantitative / mixed) with SOFT-GATE audit trails and optional MCP integration.",
-"forkCount": 0,
+"forkCount": 1,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "leiverkus/research-superpowers",
-"openGraphImageUrl": "https://opengraph.githubassets.com/f1e65a6c07c27ab1e1a93050c3b6628192b8c8341fd1ce8948e9953bbe08800b/leiverkus/research-superpowers",
+"openGraphImageUrl": "https://opengraph.githubassets.com/85fa964b9f3eda4ea5f2c1bfb244089a9a8dc1d3d412ebdec0aac636a8d0bc0a/leiverkus/research-superpowers",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/12219749?s=160&u=52bd4e00dd959a3f9201ac7b3f414cc9e07fa009&v=4"
 },
@@ -52996,7 +52998,7 @@
 }
 ]
 },
-"stargazerCount": 12
+"stargazerCount": 13
 },
 "lemma-company/telepath-plugin": {
 "description": "Open-source plugin package for Lemma Telepath \u2014 connects your Telegram to Claude, Cursor, Gemini CLI, Grok and any MCP client through the hosted server at telepath.lemma.company",
@@ -53166,9 +53168,7 @@
 "description": "Stop agents from calling buggy code \"done\": a Claude Code plugin where separate agents test, review and try to break every story, and each bug leaves a check. By Leopoldo Simini.",
 "forkCount": 0,
 "isArchived": false,
-"licenseInfo": {
-"spdxId": "MIT"
-},
+"licenseInfo": null,
 "nameWithOwner": "leosimini/keelokit",
 "openGraphImageUrl": "https://repository-images.githubusercontent.com/1389810752/17904f77-c7eb-4e06-88a8-f9d9ab9a34a7",
 "owner": {
@@ -53177,7 +53177,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-16T14:49:53Z",
+"pushedAt": "2026-11-23T15:48:16Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -53584,7 +53584,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/308737389?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-20T13:58:00Z",
+"pushedAt": "2026-11-23T08:46:29Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -53719,7 +53719,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/246485369?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-08-17T14:23:51Z",
+"pushedAt": "2026-11-23T09:47:46Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -54515,7 +54515,7 @@
 }
 ]
 },
-"stargazerCount": 57
+"stargazerCount": 58
 },
 "lperezmo/cache-caffeine": {
 "description": "Claude Code mod: keeps the prompt cache warm while you step away, and wakes Claude when the usage limit resets.",
@@ -54794,7 +54794,7 @@
 "primaryLanguage": {
 "name": "Ruby"
 },
-"pushedAt": "2026-11-19T09:45:38Z",
+"pushedAt": "2026-11-23T14:09:36Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -55029,7 +55029,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-22T13:12:44Z",
+"pushedAt": "2026-11-23T15:44:00Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -55118,7 +55118,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-16T11:50:19Z",
+"pushedAt": "2026-11-23T09:33:56Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -55286,7 +55286,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "m4bwav/obsidian-notes",
-"openGraphImageUrl": "https://opengraph.githubassets.com/50d19c593447cd4218528d94e1a480522c1f81223044a7e202ed91bd13e51ac7/m4bwav/obsidian-notes",
+"openGraphImageUrl": "https://opengraph.githubassets.com/5aac797abd5e742481ba4f566d80e21a4f514bef46db66e3a3a0cf0b0f3e2fc5/m4bwav/obsidian-notes",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/156112?s=160&u=c8fe2690144727ea7a9e131bf26b8fc7b05f74ff&v=4"
 },
@@ -56138,7 +56138,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-14T18:38:26Z",
+"pushedAt": "2026-11-22T21:30:42Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -56183,7 +56183,7 @@
 }
 ]
 },
-"stargazerCount": 176
+"stargazerCount": 177
 },
 "manifoldmcp/marketing-skills": {
 "description": "Free, hosted marketing data MCP server for Claude, ChatGPT and Cursor: SEO, AI answers, Search Console, Google Analytics, Google Maps, Reddit, social, ad libraries and leads. Plugin and marketing skills; the server is hosted.",
@@ -56281,7 +56281,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-10-13T03:40:49Z",
+"pushedAt": "2026-11-23T07:11:49Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -56774,7 +56774,7 @@
 },
 "markfulton/ai-employees": {
 "description": "Open source AI Employees. 8 scheduled business roles, 60 routines, on Claude Code and 10 other harnesses. They drive your browser the way you do and improve every run. You own the files.",
-"forkCount": 255,
+"forkCount": 257,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -56787,7 +56787,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T01:40:02Z",
+"pushedAt": "2026-11-23T10:07:48Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -56832,7 +56832,7 @@
 }
 ]
 },
-"stargazerCount": 909
+"stargazerCount": 919
 },
 "marky-team/marky-skills": {
 "description": "Agent skills for managing social media with Marky (npx skills add marky-team/marky-skills)",
@@ -57684,13 +57684,13 @@
 },
 "mattpocock/skills": {
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"forkCount": 27746,
+"forkCount": 27818,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "mattpocock/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/0463b7ce0cb7f182db90a1530a8cfafc300dbc36284e6391df73fad3dcbf1728/mattpocock/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/a9cdd6acf5ecf1979c86ae83849db9eb52fff03cf4b00f5d2bc399620de4ba49/mattpocock/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?s=160&u=0d66fa0a2c0a4ec5201818081308c14a43b72fe5&v=4"
 },
@@ -57701,7 +57701,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 330115
+"stargazerCount": 331156
 },
 "mattsears/rails-cto": {
 "description": "A opiniated skills toolkit for  Rails applications",
@@ -58068,7 +58068,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T07:18:09Z",
+"pushedAt": "2026-11-23T11:17:20Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -58118,7 +58118,7 @@
 "mcplookupdev/mcplookup-mcp": {
 "description": "Official stdio compatibility wrapper for the MCPLookup remote MCP server.",
 "forkCount": 0,
-"isArchived": false,
+"isArchived": true,
 "licenseInfo": {
 "spdxId": "MIT"
 },
@@ -58325,7 +58325,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/56690806?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-18T09:25:08Z",
+"pushedAt": "2026-11-23T09:06:14Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -58346,7 +58346,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T01:06:06Z",
+"pushedAt": "2026-11-23T15:45:28Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -58737,7 +58737,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-20T15:41:48Z",
+"pushedAt": "2026-11-23T11:34:30Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -58808,13 +58808,13 @@
 },
 "meshy-dev/meshy-3d-agent": {
 "description": "AI agent skills for Meshy AI 3D generation platform",
-"forkCount": 29,
+"forkCount": 30,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "meshy-dev/meshy-3d-agent",
-"openGraphImageUrl": "https://opengraph.githubassets.com/0e38ab7b4d55d87f2f68e8fc6b61d0b8cf9fe0037973ff97e35e2334e0065175/meshy-dev/meshy-3d-agent",
+"openGraphImageUrl": "https://opengraph.githubassets.com/3aad84477083cc368c0fd47ac4ed1377f32b04ff054614fbfd8a887ad984d334/meshy-dev/meshy-3d-agent",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/160386200?s=160&v=4"
 },
@@ -58866,7 +58866,7 @@
 }
 ]
 },
-"stargazerCount": 122
+"stargazerCount": 123
 },
 "mesmerlord/admakeai-claude-plugin": {
 "description": "AI ad generator plugin for Claude Code, Codex, Cursor and Gemini: design ad creatives and copy, UGC video ads, Meta Ad Library research and Meta campaigns via the AdMakeAI MCP server",
@@ -58991,7 +58991,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "meta-quest/agentic-tools",
-"openGraphImageUrl": "https://opengraph.githubassets.com/13e10299d9b3d66ff77475a3592b20524c45950c04724ff9e8bc9b4a27c62d23/meta-quest/agentic-tools",
+"openGraphImageUrl": "https://opengraph.githubassets.com/d95e7458cca81fecb80b47695ce2e7e418714b27adbf9c0907f66ac4e9683c80/meta-quest/agentic-tools",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/120689721?s=160&v=4"
 },
@@ -59043,7 +59043,7 @@
 }
 ]
 },
-"stargazerCount": 252
+"stargazerCount": 253
 },
 "metafloor-ai/metafloor-scm-plugin": {
 "description": "Supply-chain operator expertise + a deterministic safety gate for Claude Code \u2014 55 enterprise systems, 16 end-to-end workflows, autonomy dial.",
@@ -59174,16 +59174,16 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "MeterApp/car-image-plugins",
-"openGraphImageUrl": "https://opengraph.githubassets.com/8e7077e46005d1a0b181556cc1f469a811c28f57aa1a9a815b98d0d8aa978ab8/MeterApp/car-image-plugins",
+"openGraphImageUrl": "https://opengraph.githubassets.com/65ea22ac0616be4ebc295aa1857201da7a0b184e4ff966785c55eaf725b8e9e2/MeterApp/car-image-plugins",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/18408255?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-21T15:45:18Z",
+"pushedAt": "2026-11-23T02:45:18Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 3
+"stargazerCount": 4
 },
 "metio/ilo": {
 "description": "manage reproducible build environments",
@@ -59200,7 +59200,7 @@
 "primaryLanguage": {
 "name": "Java"
 },
-"pushedAt": "2026-11-20T23:58:27Z",
+"pushedAt": "2026-11-23T15:23:49Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -59481,14 +59481,14 @@
 "spdxId": "GPL-3.0"
 },
 "nameWithOwner": "michael-denyer/agent-formal-verify",
-"openGraphImageUrl": "https://opengraph.githubassets.com/407c50c4512d69c5ce6438f9f16a59103337098163606fa63240269a9b6b44ed/michael-denyer/agent-formal-verify",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b88bede6079771a7e61a6e71d07b3b58cb3fe94b4bfc14b028bdac3347c77eb2/michael-denyer/agent-formal-verify",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/97485362?s=160&u=ccd475d22588fd7491d7f9f8f7a580ae52757b0e&v=4"
 },
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-21T08:42:26Z",
+"pushedAt": "2026-11-23T15:58:18Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -59533,7 +59533,7 @@
 }
 ]
 },
-"stargazerCount": 50
+"stargazerCount": 52
 },
 "michaeladamgroberman/gr0m_mem": {
 "description": "Zero-install persistent memory brain for Claude Code and Claude Desktop. Stops re-asking and re-deriving across sessions. SQLite FTS5 default, ChromaDB + Ollama on the semantic branch.",
@@ -59737,7 +59737,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T11:19:47Z",
+"pushedAt": "2026-11-23T15:56:46Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -59877,7 +59877,7 @@
 },
 "microsoft/azure-skills": {
 "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
-"forkCount": 272,
+"forkCount": 273,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -59900,7 +59900,7 @@
 }
 ]
 },
-"stargazerCount": 1664
+"stargazerCount": 1669
 },
 "microsoft/azure-sql-database-container": {
 "description": "This is the Azure SQL Database container image repository",
@@ -59925,13 +59925,13 @@
 },
 "microsoft/dataverse-skills": {
 "description": "Microsoft Dataverse skills for AI coding agents. Wraps the Dataverse MCP server, Dataverse CLI, Python SDK, and PAC CLI behind specialist skills for building, querying, deploying, and administering Dataverse environments.",
-"forkCount": 66,
+"forkCount": 67,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "microsoft/Dataverse-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/d6acf195d8ac62ef80c54fc6281c794b9ccae62bf386c1788ee1fa920bc14078/microsoft/Dataverse-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/31fcf01e142a2211e2e3940da2775d621f282ab35aa5500b576277d504adcf0e/microsoft/Dataverse-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?s=160&v=4"
 },
@@ -59981,17 +59981,17 @@
 }
 ]
 },
-"stargazerCount": 262
+"stargazerCount": 264
 },
 "microsoftdocs/mcp": {
 "description": "Official Microsoft Learn MCP Server and CLI tool \u2013 powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.",
-"forkCount": 290,
+"forkCount": 291,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "CC-BY-4.0"
 },
 "nameWithOwner": "MicrosoftDocs/mcp",
-"openGraphImageUrl": "https://opengraph.githubassets.com/8960e894d0c14c4192844d77113604c6eb9fb0e67e94d52c295bd346e5d664d3/MicrosoftDocs/mcp",
+"openGraphImageUrl": "https://opengraph.githubassets.com/d0103d9a12515935dd92441ac6aac757a11ee6ae22990c2453b441e9439aebe9/MicrosoftDocs/mcp",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/22479449?s=160&v=4"
 },
@@ -60127,7 +60127,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "midvash/bible-mcp",
-"openGraphImageUrl": "https://opengraph.githubassets.com/377cf8b8944dc5b646c4317b69a5d57ec89bd0bffe6223951221e5e948dcedaa/midvash/bible-mcp",
+"openGraphImageUrl": "https://opengraph.githubassets.com/da850f99ec9fab4381614c543e14beba3994c0cd57b858249d9a7cd354cbbc3f/midvash/bible-mcp",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/284112945?s=160&v=4"
 },
@@ -60179,7 +60179,7 @@
 }
 ]
 },
-"stargazerCount": 1
+"stargazerCount": 3
 },
 "migmaai/migma-skills": {
 "description": "MigmaAI skills to run your email marketing from AI agents.",
@@ -61046,13 +61046,13 @@
 },
 "mobbin/skills": {
 "description": "Official Mobbin skills for designing and building UI with Mobbin, the industry standard in UI & UX design references for mobile apps, web apps, and websites",
-"forkCount": 5,
+"forkCount": 6,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "mobbin/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/c3f253755767cf667e69422f3b754b5d066db6d671f645aac18134947ba765a9/mobbin/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b6be26f1be0114981cb11892d13ecdb5bf25431d3c733071e70ae79c99870f71/mobbin/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/55689110?s=160&v=4"
 },
@@ -61094,7 +61094,7 @@
 }
 ]
 },
-"stargazerCount": 76
+"stargazerCount": 80
 },
 "moca-love/claude-code-lark": {
 "description": "Lark (Larksuite/Feishu) channel plugin for Claude Code \u2014 messaging bridge with built-in access control",
@@ -61125,7 +61125,7 @@
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "modelcontextprotocol/ext-apps",
-"openGraphImageUrl": "https://opengraph.githubassets.com/1b8379894be43ea4a7d897023cb61ec95a07057b22302bae9617243eaf041651/modelcontextprotocol/ext-apps",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ae0e860fb6bf0ec55c5eb891a8a89faf84d6e5588869c8cc452e84648e949243/modelcontextprotocol/ext-apps",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/182288589?s=160&v=4"
 },
@@ -61167,11 +61167,11 @@
 }
 ]
 },
-"stargazerCount": 3135
+"stargazerCount": 3144
 },
 "modelence/modelence": {
 "description": "Modelence is a production cloud on autopilot, where you can deploy and run your backend, databases and scheduled jobs, monitored and operated by agents.",
-"forkCount": 61,
+"forkCount": 62,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "NOASSERTION"
@@ -61184,7 +61184,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-20T23:16:57Z",
+"pushedAt": "2026-11-23T15:41:51Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -61559,7 +61559,7 @@
 },
 "mohitkale/shopify-devkit": {
 "description": "Claude Code workflows for Shopify themes, Liquid, Functions, Checkout UI extensions, and Admin GraphQL.",
-"forkCount": 1,
+"forkCount": 2,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -61777,7 +61777,7 @@
 },
 "mondaycom/mcp": {
 "description": "Enable AI agents to work reliably - giving them secure access to structured data, tools to take action, and the context needed to make smart decisions.",
-"forkCount": 107,
+"forkCount": 106,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -61790,7 +61790,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-19T08:01:29Z",
+"pushedAt": "2026-11-23T13:49:58Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -62008,7 +62008,7 @@
 },
 "mongodb/agent-skills": {
 "description": "Use the official MongoDB Skills with your favorite coding agent to build faster.",
-"forkCount": 46,
+"forkCount": 47,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -62021,7 +62021,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-20T17:23:06Z",
+"pushedAt": "2026-11-23T15:37:03Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -62136,7 +62136,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-16T13:06:01Z",
+"pushedAt": "2026-11-23T15:14:10Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -63102,7 +63102,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T23:24:42Z",
+"pushedAt": "2026-11-23T10:47:17Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -63170,13 +63170,13 @@
 },
 "msishariful/claude-token-inspector": {
 "description": "Claude Code plugin with 8 skills to inspect, audit, and optimize your context window \u2014 see exactly what's eating your tokens and reclaim it.",
-"forkCount": 1,
+"forkCount": 2,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "msiShariful/claude-token-inspector",
-"openGraphImageUrl": "https://opengraph.githubassets.com/02a0f1b1a305abb81b028c16a32fbfe8def0059bfd62e705948b85150ee6f866/msiShariful/claude-token-inspector",
+"openGraphImageUrl": "https://opengraph.githubassets.com/24101c5406298e7f953cdd0ff7982c33363de9246b3585e69e02b5c7b8ffc8f8/msiShariful/claude-token-inspector",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/59393638?s=160&u=b211c44a60103f96f1ef3b68dc1a96732a42a7aa&v=4"
 },
@@ -63226,7 +63226,7 @@
 }
 ]
 },
-"stargazerCount": 4
+"stargazerCount": 5
 },
 "mskayyali/stateful": {
 "description": "A way of designing software where the conditions it can be in are treated as the work, not as edge cases to handle later.",
@@ -63236,7 +63236,7 @@
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "mskayyali/Stateful",
-"openGraphImageUrl": "https://opengraph.githubassets.com/6858c0cd23afd0017e5863aa9b4deeffab17bf2ae358ce8724a444e35b196cce/mskayyali/Stateful",
+"openGraphImageUrl": "https://opengraph.githubassets.com/75c6951d275d2e351a1cdc4dea46a77be518247b01f37c69dc6b0963b88700f2/mskayyali/Stateful",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/272662?s=160&u=11cd7996de040d560c9476ac4775778f065b73f9&v=4"
 },
@@ -63278,7 +63278,7 @@
 }
 ]
 },
-"stargazerCount": 5
+"stargazerCount": 6
 },
 "mtharshanan/retirement-cash-flow-planner": {
 "description": "Claude plugin for building a personalized retirement cash-flow and Roth conversion model in Excel.",
@@ -63354,7 +63354,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-10-17T04:13:45Z",
+"pushedAt": "2026-11-23T09:16:04Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -64331,7 +64331,7 @@
 },
 "neondatabase/agent-skills": {
 "description": "Agent Skills for Neon Severless Postgres",
-"forkCount": 26,
+"forkCount": 27,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -64507,13 +64507,13 @@
 },
 "netlify/context-and-tools": {
 "description": null,
-"forkCount": 17,
+"forkCount": 19,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "netlify/context-and-tools",
-"openGraphImageUrl": "https://opengraph.githubassets.com/fec972c07b8f41707cb8c862875bb708eecf1be61b96f6a5442b8c373a94e34e/netlify/context-and-tools",
+"openGraphImageUrl": "https://opengraph.githubassets.com/9d397f1d9a3c822a31fac1e13efb796451060017a4bd9b610152c0cc25b38246/netlify/context-and-tools",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/7892489?s=160&v=4"
 },
@@ -64524,7 +64524,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 55
+"stargazerCount": 56
 },
 "netsolaicoe/netsol-claude-brand-builder": {
 "description": null,
@@ -64570,7 +64570,7 @@
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "newrelic/claude-code-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/dd5cee00eba7c40d08dae03efcf001613ffa83b4efb0001b7bf1750462eff9ee/newrelic/claude-code-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/2f8a31ee3af20fb7b3ec2cdebf2421d783fce0d81c067e71ba4e4fcad9188c14/newrelic/claude-code-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/31739?s=160&v=4"
 },
@@ -64579,11 +64579,11 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 6
+"stargazerCount": 7
 },
 "nextlevelbuilder/ui-ux-pro-max-skill": {
 "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-"forkCount": 16096,
+"forkCount": 16145,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -64596,7 +64596,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T04:08:27Z",
+"pushedAt": "2026-11-23T13:08:07Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -64641,7 +64641,7 @@
 }
 ]
 },
-"stargazerCount": 152689
+"stargazerCount": 153166
 },
 "nexusbuildsai/claude-time": {
 "description": "Zero-config Claude Code plugin: live time + timezone injected into every prompt. Stops Claude from saying 'tonight' in the morning.",
@@ -64773,18 +64773,18 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "ngrok/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/638c91ca34a52a62834fe0291b7665d510f9c50f0c2332b13c238feeda43b588/ngrok/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/f835103aa6626d4b5307944ed6ccbba4325fd9280bce49c233d95015f16746da/ngrok/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/10625446?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T12:32:55Z",
+"pushedAt": "2026-11-23T13:02:01Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 22
+"stargazerCount": 23
 },
 "ngshiwei/lca-deala-skills": {
 "description": "Claude LCA and DEALA agent skills",
@@ -65668,7 +65668,7 @@
 "forkCount": 2,
 "isArchived": false,
 "licenseInfo": {
-"spdxId": "Apache-2.0"
+"spdxId": "NOASSERTION"
 },
 "nameWithOwner": "nikolay-e/diffctx",
 "openGraphImageUrl": "https://opengraph.githubassets.com/6002209d28551af96be09927820486d8895b4ba33e8837e8ac9e477a1aedc4bf/nikolay-e/diffctx",
@@ -65678,7 +65678,7 @@
 "primaryLanguage": {
 "name": "Rust"
 },
-"pushedAt": "2026-11-20T20:43:20Z",
+"pushedAt": "2026-11-23T13:58:52Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -66016,7 +66016,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-16T03:16:08Z",
+"pushedAt": "2026-11-23T02:18:21Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -66183,7 +66183,7 @@
 },
 "nodesource/nsolid-plugin": {
 "description": null,
-"forkCount": 9,
+"forkCount": 10,
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "nodesource/nsolid-plugin",
@@ -66615,7 +66615,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/191477179?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-16T09:26:10Z",
+"pushedAt": "2026-11-23T11:03:55Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -66798,7 +66798,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T09:02:44Z",
+"pushedAt": "2026-11-23T12:19:53Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -66915,14 +66915,14 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "novanoticia/email-triage-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/f2facddbeaf21e700aa7bebacb8512ad3de57b7aa0a4424fd666b5bffc616477/novanoticia/email-triage-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/084b62320fe07a912e5caa1355cc3b344d8fb7177b660025d5c0b5fb7c68b855/novanoticia/email-triage-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/181858512?s=160&u=c3b238845700f9338d27460044a055b4d8fd1d75&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T09:02:08Z",
+"pushedAt": "2026-11-23T12:19:44Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -67277,7 +67277,7 @@
 },
 "nvidia/skills": {
 "description": "Agent Skills for NVIDIA products \u2014 install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
-"forkCount": 550,
+"forkCount": 552,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -67335,7 +67335,7 @@
 }
 ]
 },
-"stargazerCount": 4109
+"stargazerCount": 4122
 },
 "nvsecurity/nightvision-skills": {
 "description": "NightVision DAST and API Discovery skills plugin for Claude Code",
@@ -67352,7 +67352,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-18T22:39:23Z",
+"pushedAt": "2026-11-23T14:17:53Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -67468,7 +67468,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-21T14:10:29Z",
+"pushedAt": "2026-11-23T14:14:48Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -67517,13 +67517,13 @@
 },
 "nykooi1/vibe-wise": {
 "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
-"forkCount": 178,
+"forkCount": 180,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "nykooi1/vibe-wise",
-"openGraphImageUrl": "https://opengraph.githubassets.com/b62ec5dbe0ef15392c2201c901cf2eff735ae41d2ad589a537d19c5b4e4a0692/nykooi1/vibe-wise",
+"openGraphImageUrl": "https://opengraph.githubassets.com/d0d61064fcd39484e75913190324c6e04f56c145dbcbac33dbc9eadc0d845445/nykooi1/vibe-wise",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/74839315?s=160&u=18cece63004a58844fcd6df99641d1c12b7729da&v=4"
 },
@@ -67545,7 +67545,7 @@
 }
 ]
 },
-"stargazerCount": 4428
+"stargazerCount": 4435
 },
 "nzanepro/tvr-skills-agent-advisory-council": {
 "description": "Claude Code plugin and Agent Skill that runs a simulated advisory council on a decision: board, C-suite, customer segments, competitors, critics and regulators give independent positions, a verifier fact-checks the claims into addenda, and a second round votes on a recommendation that keeps the dissent.",
@@ -67785,7 +67785,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-04T18:51:38Z",
+"pushedAt": "2026-11-23T13:20:25Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -67896,13 +67896,13 @@
 },
 "obra/superpowers": {
 "description": "An agentic skills framework & software development methodology that works.",
-"forkCount": 28735,
+"forkCount": 28815,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "obra/superpowers",
-"openGraphImageUrl": "https://opengraph.githubassets.com/912a6252a2fdf8adab2cccf213d35697afd6f16e4e3e84e255e98fb61daf25ed/obra/superpowers",
+"openGraphImageUrl": "https://opengraph.githubassets.com/67f2a34c8da1e99f817347e63998d37c1a1e8af78b47aabc1e74548035f55771/obra/superpowers",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/45416?s=160&u=37d9e6e1ec50898b8c0b4005613538db1f7a4167&v=4"
 },
@@ -67954,7 +67954,7 @@
 }
 ]
 },
-"stargazerCount": 323839
+"stargazerCount": 324782
 },
 "obsvra/spicegrinder-cookbook": {
 "description": "Agent skills, curated examples, and community models for SpiceGrinder",
@@ -68107,14 +68107,14 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "Octen-Team/octen-mcp",
-"openGraphImageUrl": "https://opengraph.githubassets.com/8987c847506c64a565a6cbf1d538db2739789999cab693276575f5c789f1c3e9/Octen-Team/octen-mcp",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ed35c34624c2f476e2bdbb999bd125736610a49f72edc47517c60cceb767e841/Octen-Team/octen-mcp",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/254590561?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-11T13:11:03Z",
+"pushedAt": "2026-11-23T14:51:04Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -68159,7 +68159,7 @@
 }
 ]
 },
-"stargazerCount": 25
+"stargazerCount": 24
 },
 "octoperf/octoperf-claude-plugins": {
 "description": null,
@@ -68508,7 +68508,7 @@
 "primaryLanguage": {
 "name": "HTML"
 },
-"pushedAt": "2026-11-22T11:36:41Z",
+"pushedAt": "2026-11-23T14:56:24Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -68603,7 +68603,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "oh-da/dataink",
-"openGraphImageUrl": "https://opengraph.githubassets.com/80802066b63d0d7cb8bd589cd6ab994b8d6a321b04c8924c2384c4e0a075df5a/oh-da/dataink",
+"openGraphImageUrl": "https://opengraph.githubassets.com/263ec10ca1a6dd5978b0f81e5da39638a21df7f4b8eb698a028abf47fb6f1358/oh-da/dataink",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/69684166?s=160&v=4"
 },
@@ -68655,7 +68655,7 @@
 }
 ]
 },
-"stargazerCount": 4
+"stargazerCount": 5
 },
 "ohong/agent-skills": {
 "description": null,
@@ -68899,7 +68899,7 @@
 }
 ]
 },
-"stargazerCount": 577
+"stargazerCount": 578
 },
 "oliverow/catch-me-up": {
 "description": "A Claude Code mod that keeps a live catch-up summary of your session in a side pane",
@@ -69466,13 +69466,13 @@
 },
 "onewave-ai/claude-skills": {
 "description": "200+ production-ready Claude Code skills for sales, marketing, design, engineering, and AI agent architecture. Built and maintained by OneWave AI.",
-"forkCount": 67,
+"forkCount": 68,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "OneWave-AI/claude-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/5f2d728a8407f32b968ea72aa57c1c444ab338e2e91552949c1e49753fc55b4f/OneWave-AI/claude-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/52c0cf2de3709a2635aa83305f717202167abed69bfc5261ff8a3f52c78a7b05/OneWave-AI/claude-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/239639365?s=160&v=4"
 },
@@ -69524,7 +69524,7 @@
 }
 ]
 },
-"stargazerCount": 440
+"stargazerCount": 442
 },
 "opencase-com/opencase-plugin": {
 "description": "OpenCase for Claude and ChatGPT: verify legal citations and quotations against the law itself.",
@@ -69846,7 +69846,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T13:15:28Z",
+"pushedAt": "2026-11-23T07:54:26Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -70032,7 +70032,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T13:21:01Z",
+"pushedAt": "2026-11-22T18:19:43Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -70228,7 +70228,7 @@
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "ory/lumen",
-"openGraphImageUrl": "https://opengraph.githubassets.com/aa3546183d49e4cf3e3d27e1d91d21dc106dbaa9af72f370842c8d580688ab65/ory/lumen",
+"openGraphImageUrl": "https://opengraph.githubassets.com/af8e4c05bdd0696229d4c6d2d35ac35345e17f8d808d04b4f028e21a957088c7/ory/lumen",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/25334553?s=160&v=4"
 },
@@ -70280,7 +70280,7 @@
 }
 ]
 },
-"stargazerCount": 317
+"stargazerCount": 318
 },
 "oryxintel/oryxflow-claude-plugin": {
 "description": "Trustworthy, reproducible AI data analysis in Claude Code. A data-science plugin (skill + slash commands) that stops your coding agent building on stale data and records what produced every result.",
@@ -70659,7 +70659,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-16T05:43:48Z",
+"pushedAt": "2026-11-23T05:43:39Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -70799,7 +70799,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T23:04:33Z",
+"pushedAt": "2026-11-23T09:41:44Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -71226,7 +71226,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-17T06:38:00Z",
+"pushedAt": "2026-11-23T07:31:14Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -72123,7 +72123,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/336865050?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-22T05:11:20Z",
+"pushedAt": "2026-11-22T14:15:36Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -72212,7 +72212,7 @@
 },
 "petrovicistefan/claude-code-plugins": {
 "description": null,
-"forkCount": 2,
+"forkCount": 3,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -72741,7 +72741,7 @@
 },
 "piotrlason/video-to-code-skill": {
 "description": "Inputs the content of any video into Claude Code prompt / context window as a multimodal bundle of voice transcription and data summary, time synced with keyframes - screenshots of key moments from the video so it can be used for all further requests related to that content.",
-"forkCount": 2,
+"forkCount": 3,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -72837,7 +72837,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T04:02:46Z",
+"pushedAt": "2026-11-22T22:24:46Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -73624,7 +73624,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T12:15:26Z",
+"pushedAt": "2026-11-23T12:17:45Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -74326,7 +74326,7 @@
 },
 "prathameshkadam130404/claude-governor": {
 "description": "Budget-aware agent loop for Claude Code: the model sees its context + 5h/7d quota every turn, economizes under pressure, checkpoints durably, and resumes cleanly after usage-limit cutoffs",
-"forkCount": 0,
+"forkCount": 1,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -74779,7 +74779,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "prismatic-io/prismatic-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/99e806a979a7288f9ac5d696d7957cc7a7ddd7d37d4e22d837a7bc38136ea96e/prismatic-io/prismatic-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/049b599f5ee274568282fff49318f5d431e0a1df662cec787b7067488488ee12/prismatic-io/prismatic-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/51928972?s=160&v=4"
 },
@@ -74816,7 +74816,7 @@
 }
 ]
 },
-"stargazerCount": 29
+"stargazerCount": 30
 },
 "privco/privco-claude-plugin": {
 "description": "PrivCo's official Claude Code plugin + marketplace \u2014 17 MCP tools + the PrivCo search skill in one install (API key via keychain).",
@@ -74831,7 +74831,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/47610808?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-03T00:33:58Z",
+"pushedAt": "2026-11-22T14:35:18Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -75025,7 +75025,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-19T16:53:42Z",
+"pushedAt": "2026-11-23T09:26:42Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -75344,7 +75344,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "proyecto26/system-design-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/9073e46af28247aa4f33c8fde992d5d5385e155fc06527ff2ee274b61e545404/proyecto26/system-design-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/6c2060ff9856671f2835398ff8e988361f124c42160ec42965f131643fe89fb4/proyecto26/system-design-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/28855608?s=160&v=4"
 },
@@ -75396,7 +75396,7 @@
 }
 ]
 },
-"stargazerCount": 140
+"stargazerCount": 141
 },
 "publicala/bake-claude-md-files": {
 "description": "Moved: now the /bonsai:bake skill of the bonsai plugin in publicala/claude-plugins. Archived.",
@@ -75647,7 +75647,7 @@
 }
 ]
 },
-"stargazerCount": 4
+"stargazerCount": 5
 },
 "pupfish-llc/qlik-agents": {
 "description": "AI-powered multi-agent development pipeline for Qlik",
@@ -75706,7 +75706,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-20T14:23:15Z",
+"pushedAt": "2026-11-23T14:33:39Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -75768,7 +75768,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-20T20:15:47Z",
+"pushedAt": "2026-11-23T13:48:12Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -75865,7 +75865,7 @@
 "primaryLanguage": {
 "name": "HTML"
 },
-"pushedAt": "2026-11-22T12:48:43Z",
+"pushedAt": "2026-11-23T14:54:23Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -76026,7 +76026,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/39407531?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-10T15:51:37Z",
+"pushedAt": "2026-11-23T13:24:10Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -76128,7 +76128,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "RachaelQuisel/github-portfolio-builder",
-"openGraphImageUrl": "https://opengraph.githubassets.com/13c63339684abc1817b726e02bf8951a1ed424feb6323836fdb3ac3da8583981/RachaelQuisel/github-portfolio-builder",
+"openGraphImageUrl": "https://opengraph.githubassets.com/f7c24b14aafdea9364f4e83263e8ad62830147e2a69b9a8307b24d8801e0970f/RachaelQuisel/github-portfolio-builder",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/13229570?s=160&u=bf7ad8eb0dc814d4b92e838590834db63c241c1f&v=4"
 },
@@ -76139,7 +76139,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 1
+"stargazerCount": 2
 },
 "rachaelquisel/questions-worth-asking": {
 "description": "Review meeting transcripts and surface the questions you missed asking. A Claude Code plugin.",
@@ -76364,7 +76364,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "raindropio/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/3eb42e69f2e8652201fdd6972ad8fe836008472c82d35aca3754bf901f4a930d/raindropio/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b0667afb3dbc0ff6ef07991eed3da0935346976cef81817f66a9e743a0233fcf/raindropio/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/6144133?s=160&v=4"
 },
@@ -76373,7 +76373,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 22
+"stargazerCount": 24
 },
 "raintree-technology/betteroff-connectors": {
 "description": "Official BetterOff MCP connectors",
@@ -76688,7 +76688,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/80294188?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-12T07:43:30Z",
+"pushedAt": "2026-11-23T12:23:59Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -77568,16 +77568,16 @@
 },
 "remotion-dev/claude-code-plugin": {
 "description": "Remotion Agent Skills for Claude Code",
-"forkCount": 35,
+"forkCount": 37,
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "remotion-dev/claude-code-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/f92ec31ed26086d06ebd57cccf642594af248f22bbf3ee7798d1984ad63a602c/remotion-dev/claude-code-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/18fc5534d43c99bb1c62ac5c8a3c418d6338467456324df7b048ce382f062395/remotion-dev/claude-code-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/85344006?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-18T10:19:23Z",
+"pushedAt": "2026-11-23T09:58:17Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -77602,7 +77602,7 @@
 }
 ]
 },
-"stargazerCount": 95
+"stargazerCount": 98
 },
 "render-oss/render-plugin-claude-code": {
 "description": "Render plugin for Claude Code \u2014 skills, agent, slash commands, and render.yaml validation",
@@ -77642,7 +77642,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 27
+"stargazerCount": 28
 },
 "reodotdev/claude-plugin": {
 "description": null,
@@ -77742,7 +77742,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "resend/resend-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/b121eb85305b84300de8152b2c8e3f95455deddda1e53fdc75285535546867a7/resend/resend-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/4cb4d7ad5f35f60a406d34ade1c3f1798919aac3b05613256416303530500eed/resend/resend-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/109384852?s=160&v=4"
 },
@@ -77753,7 +77753,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 216
+"stargazerCount": 218
 },
 "resolve-ai-oss/resolve-ai-plugins": {
 "description": null,
@@ -78036,7 +78036,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "revfactory/harness",
-"openGraphImageUrl": "https://opengraph.githubassets.com/a1ca240384aadb5ae8ee3fc6aa85f5f9b3368f0745d9d5a58ecbae2e43151399/revfactory/harness",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b970fc90ee36537d6dd9eaa23b160a9b3f7e7131e3dba0528659e59c53de339e/revfactory/harness",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/2889542?s=160&u=33b051f028dbe6fd0cd62f25fbb28e8de475cfe3&v=4"
 },
@@ -78066,7 +78066,7 @@
 }
 ]
 },
-"stargazerCount": 9390
+"stargazerCount": 9393
 },
 "revono/clawd-pet": {
 "description": "Clawd lives above your prompt in Claude Code. A pet mod that reacts to what Claude is doing \ud83e\udde1",
@@ -78466,7 +78466,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/125161192?s=160&u=37f715abd932e7cd484bbd9a0aaabbbf743c6092&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-10-26T23:48:19Z",
+"pushedAt": "2026-11-22T18:47:25Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -78916,7 +78916,7 @@
 },
 "riversidefm/riverside-mcp-public": {
 "description": "Riverside public plugin entry point for various AI clients \u2014 connect Riverside recordings, transcripts, editing, and social publishing to your agent.",
-"forkCount": 1,
+"forkCount": 2,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -79263,7 +79263,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T13:13:38Z",
+"pushedAt": "2026-11-23T15:47:39Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -80050,7 +80050,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "rshankras/claude-code-apple-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/cda398a7dcd496999d08847941bdbaf456c8fc2da68877095e50bca5c8f97119/rshankras/claude-code-apple-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/2a423b1f758554f3269c75ecb48c50257cd0d82a38a0ec2714b63f55e9ec7aab/rshankras/claude-code-apple-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/2097525?s=160&u=36223205fe5de6f9e7efc5bf1c9a9f554c0d4405&v=4"
 },
@@ -80102,7 +80102,7 @@
 }
 ]
 },
-"stargazerCount": 905
+"stargazerCount": 906
 },
 "rsoffer/linus-level-skill": {
 "description": "A SKILL.md agent skill that gives Codex, Claude, and other coding agents a 1.0-10.0 Linus Level dial for autonomy, strictness, security, questions, and engineering rigor.",
@@ -80265,7 +80265,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-21T06:07:23Z",
+"pushedAt": "2026-11-23T11:13:15Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -80543,7 +80543,7 @@
 }
 ]
 },
-"stargazerCount": 50
+"stargazerCount": 51
 },
 "runverdict/repo-standard-toolkit": {
 "description": "Bootstrap and enforce enterprise repo hygiene in any codebase, from one command.",
@@ -80609,7 +80609,7 @@
 },
 "runwayml/skills": {
 "description": "for Runway coding agent skills",
-"forkCount": 20,
+"forkCount": 21,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -80771,7 +80771,7 @@
 },
 "ruvnet/ruflo": {
 "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-"forkCount": 9694,
+"forkCount": 9702,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -80784,7 +80784,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-21T04:40:46Z",
+"pushedAt": "2026-11-23T07:27:13Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -80829,7 +80829,7 @@
 }
 ]
 },
-"stargazerCount": 82250
+"stargazerCount": 82316
 },
 "rwaltenberg/lightning-tv-solid-plugin": {
 "description": "Claude Code plugin: Lightning TV framework expertise for @lightningtv/solid Smart TV applications",
@@ -80886,15 +80886,15 @@
 "primaryLanguage": {
 "name": "Rust"
 },
-"pushedAt": "2026-11-22T12:40:03Z",
+"pushedAt": "2026-11-23T14:02:14Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 19541
+"stargazerCount": 19554
 },
 "saadeghi/daisyui": {
 "description": "\ud83c\udf3c \ud83c\udf3c \ud83c\udf3c \ud83c\udf3c \ud83c\udf3c \u2003The most popular, free and open-source Tailwind CSS component library",
-"forkCount": 1726,
+"forkCount": 1725,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -80952,7 +80952,7 @@
 }
 ]
 },
-"stargazerCount": 42926
+"stargazerCount": 42948
 },
 "sadeem-cloud/claude_odoo_timesheet_plugin": {
 "description": null,
@@ -81009,7 +81009,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T02:55:27Z",
+"pushedAt": "2026-11-23T03:37:13Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -81133,7 +81133,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-21T12:04:57Z",
+"pushedAt": "2026-11-23T08:38:43Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -81197,7 +81197,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "salemalem/npmscan-mcp-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/51483d2f25e238fc257116550188515de4976a7408ddd3392ef9ceacefdce07a/salemalem/npmscan-mcp-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/de0337febd532681977d2890987a4cdca5dab2b5541ff533082a3f67e4533db0/salemalem/npmscan-mcp-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/42411937?s=160&u=41a7d888ce47c591e1a246e579ff6d596e8b9354&v=4"
 },
@@ -81234,7 +81234,7 @@
 }
 ]
 },
-"stargazerCount": 163
+"stargazerCount": 164
 },
 "sales-retriever/claude-plugin": {
 "description": "Sales Retriever Remote MCP plugin for Claude Code and Cowork",
@@ -81317,7 +81317,7 @@
 },
 "salesforce/salesforce-skills": {
 "description": null,
-"forkCount": 15,
+"forkCount": 16,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -81338,7 +81338,7 @@
 },
 "salesforceairesearch/agentforce-adlc": {
 "description": "Agent Development Life Cycle \u2014 Build, deploy, test, and optimize Agentforce agents using Claude Code skills and Agent Script DSL.",
-"forkCount": 43,
+"forkCount": 44,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "NOASSERTION"
@@ -81554,7 +81554,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-17T18:12:52Z",
+"pushedAt": "2026-11-22T21:31:20Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -81648,10 +81648,10 @@
 "licenseInfo": {
 "spdxId": "MIT"
 },
-"nameWithOwner": "samuelbushi/uizze",
-"openGraphImageUrl": "https://opengraph.githubassets.com/c420baaef52bfb1b193c4c4fb9de04f67ff31024355ad7b2884fea77b101863f/samuelbushi/uizze",
+"nameWithOwner": "objective-bot/uizze",
+"openGraphImageUrl": "https://opengraph.githubassets.com/c420baaef52bfb1b193c4c4fb9de04f67ff31024355ad7b2884fea77b101863f/objective-bot/uizze",
 "owner": {
-"avatarUrl": "https://avatars.githubusercontent.com/u/43500751?s=160&u=72282970b0270aef0fd5b924de8c53ef1bee92c9&v=4"
+"avatarUrl": "https://avatars.githubusercontent.com/u/43500751?s=160&u=2eb581052684ebad9885897b2910e0cda0c7d25b&v=4"
 },
 "primaryLanguage": {
 "name": "JavaScript"
@@ -81747,7 +81747,7 @@
 },
 "sanity-io/agent-toolkit": {
 "description": "Collection of resources to help AI agents build better with Sanity.",
-"forkCount": 31,
+"forkCount": 32,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -81760,7 +81760,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-20T12:27:04Z",
+"pushedAt": "2026-11-23T08:21:57Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -81857,7 +81857,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "SankaiAI/ats-optimized-resume-agent-skill",
-"openGraphImageUrl": "https://opengraph.githubassets.com/6468ef44253cd0a8ce6597e07e3384674c50caff8a5b4212edc49e653043d21a/SankaiAI/ats-optimized-resume-agent-skill",
+"openGraphImageUrl": "https://opengraph.githubassets.com/fdd41bc3d3f257aedf711aaaf5e75301d86e9381bb25d63a8112c063a08b03da/SankaiAI/ats-optimized-resume-agent-skill",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/191948616?s=160&u=aa9f0d0e7acc26d7887c99999ac39963f4163284&v=4"
 },
@@ -81868,7 +81868,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 117
+"stargazerCount": 118
 },
 "sanoy24/backend-performance-review": {
 "description": "An open-source Agent Skill that teaches AI coding agents evidence-based backend performance review: technology-agnostic, workload-driven, and it invents nothing.",
@@ -81885,7 +81885,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-14T23:10:02Z",
+"pushedAt": "2026-11-22T19:38:32Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -81985,7 +81985,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T13:20:58Z",
+"pushedAt": "2026-11-23T09:52:29Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -82032,7 +82032,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-21T10:47:42Z",
+"pushedAt": "2026-11-23T15:11:36Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -82454,7 +82454,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-20T13:53:58Z",
+"pushedAt": "2026-11-23T15:57:23Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -82636,7 +82636,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/21305454?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-10-21T11:24:49Z",
+"pushedAt": "2026-11-23T11:45:34Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -83215,7 +83215,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-20T12:42:38Z",
+"pushedAt": "2026-11-23T14:37:56Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -83268,7 +83268,7 @@
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "semgrep/guardian",
-"openGraphImageUrl": "https://opengraph.githubassets.com/3b339c513020a57e354899038ae37afb37eb7f2a1b9b963532e84a9a9766375d/semgrep/guardian",
+"openGraphImageUrl": "https://opengraph.githubassets.com/44c6541ea550c28d18213012d6f56c214e21a8f795eb2a086744a226ac4865fc/semgrep/guardian",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/29760937?s=160&v=4"
 },
@@ -83279,7 +83279,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 23
+"stargazerCount": 24
 },
 "semihbugrasezer/seerxo": {
 "description": "AI-assisted Etsy listing generation and audit \u2014 CLI, MCP server and Claude Code skill.",
@@ -83527,7 +83527,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/72915556?s=160&u=0068dbda6201b39d11c5efb246d66f1693f16949&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-20T21:43:00Z",
+"pushedAt": "2026-11-23T15:57:54Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -83535,7 +83535,7 @@
 },
 "seranking/seo-skills": {
 "description": "Claude SEO Skills \u2014 production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voice, audits, backlink gaps, keyword clusters, schema, sitemap, GEO, and more.",
-"forkCount": 51,
+"forkCount": 52,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -84004,9 +84004,9 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/81685929?s=160&v=4"
 },
 "primaryLanguage": {
-"name": "Shell"
+"name": "JavaScript"
 },
-"pushedAt": "2026-11-20T02:26:00Z",
+"pushedAt": "2026-11-23T02:24:43Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -84603,7 +84603,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "sheitabrk/backend-design",
-"openGraphImageUrl": "https://opengraph.githubassets.com/e3666082ce3421f20f2432053511504e3433952bd408c8113a7188372b3316ef/sheitabrk/backend-design",
+"openGraphImageUrl": "https://opengraph.githubassets.com/1a6912b6f9546d85d6719bb1e4da78188dd3cef7ff359d1c5025ba9a5d72bf16/sheitabrk/backend-design",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/44614193?s=160&u=bc837d39e48a79991add5782de106dd85d5958ca&v=4"
 },
@@ -84614,7 +84614,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 3
+"stargazerCount": 4
 },
 "shengyy/ccoverhead": {
 "description": "Claude Code mod for context, growth, quota, cache, native cost and agent activity above the prompt, with session details. Available in Anthropic Directory.",
@@ -84626,7 +84626,7 @@
 "nameWithOwner": "shengyy/ccoverhead",
 "openGraphImageUrl": "https://opengraph.githubassets.com/5b07a23e1b517c504364fc5167f07bf5339b39e5ff617f9312e491f8b5a430af/shengyy/ccoverhead",
 "owner": {
-"avatarUrl": "https://avatars.githubusercontent.com/u/39737089?s=160&v=4"
+"avatarUrl": "https://avatars.githubusercontent.com/u/39737089?s=160&u=d5b6435f4b7da218633954cb64a35910613c2f79&v=4"
 },
 "primaryLanguage": {
 "name": "TypeScript"
@@ -85146,7 +85146,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/35656266?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-22T12:19:28Z",
+"pushedAt": "2026-11-23T13:14:30Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -85745,14 +85745,12 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "simonediroma/claude-ghost-writer",
-"openGraphImageUrl": "https://opengraph.githubassets.com/d06d762e6ee09c67bd72864169a0c9c93b2d2126584477806022c2715accc0e7/simonediroma/claude-ghost-writer",
+"openGraphImageUrl": "https://opengraph.githubassets.com/cf5f913171e10caa2dec7161cafe369211071ca2cb110a5e0c21993479c06150/simonediroma/claude-ghost-writer",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/1937788?s=160&v=4"
 },
-"primaryLanguage": {
-"name": "Python"
-},
-"pushedAt": "2026-11-15T15:56:08Z",
+"primaryLanguage": null,
+"pushedAt": "2026-11-23T11:03:03Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -86299,7 +86297,7 @@
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "skovalik/perception-first-design",
-"openGraphImageUrl": "https://opengraph.githubassets.com/60d87f31c514c63acde87e96c4adb6fd973db23a68eca78c619cc1359e5fe8f4/skovalik/perception-first-design",
+"openGraphImageUrl": "https://opengraph.githubassets.com/6c40378437d3462792fe4c35ca970f17ef9ce58cef4b51567894b1f4cd91ebcb/skovalik/perception-first-design",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/2453251?s=160&u=3d85f3d44f2ba0d360f6347de7e7ae1586dfd6d7&v=4"
 },
@@ -86310,7 +86308,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 183
+"stargazerCount": 184
 },
 "skrripa/install-checkpoint": {
 "description": "Claude Code plugin: blocks installs and edits to Claude settings until a reviewer agent vets them and a human approves.",
@@ -86764,7 +86762,7 @@
 },
 "smartsbio/smarts-bio-skills": {
 "description": null,
-"forkCount": 0,
+"forkCount": 1,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -86935,9 +86933,9 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/57973674?s=160&u=4732ab2e419548b1e35591130c3ccfe4592b1907&v=4"
 },
 "primaryLanguage": {
-"name": "HTML"
+"name": "Shell"
 },
-"pushedAt": "2026-11-09T02:32:15Z",
+"pushedAt": "2026-11-23T01:48:45Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -86992,7 +86990,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "Snowflake-Labs/snowflake-ai-kit",
-"openGraphImageUrl": "https://opengraph.githubassets.com/a695c5e693b08c8f265eecce8eab0bf794e05981aac7233dd385ba5703d6379a/Snowflake-Labs/snowflake-ai-kit",
+"openGraphImageUrl": "https://opengraph.githubassets.com/1e049b3212e936659e809cfb9c363dc8318d8e99382d4913c7ca899c1dd2cb7a/Snowflake-Labs/snowflake-ai-kit",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/58992620?s=160&v=4"
 },
@@ -87044,7 +87042,7 @@
 }
 ]
 },
-"stargazerCount": 45
+"stargazerCount": 46
 },
 "soapyred/freightutils-claude-plugin": {
 "description": "FreightUtils plugin for Claude: freight calculations, ADR road-leg checks, customs and trade, freight reference \u2014 skills plus the FreightUtils connector.",
@@ -87067,7 +87065,7 @@
 },
 "social-media-skills/skills": {
 "description": "106 social media skills for AI agents - strategy, writing, video, design, platform growth, publishing, and analytics. Works with Claude, Cursor, OpenClaw, Hermes & 40+ agents.",
-"forkCount": 78,
+"forkCount": 79,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -87125,7 +87123,7 @@
 }
 ]
 },
-"stargazerCount": 368
+"stargazerCount": 383
 },
 "social-supermarket/merch-plugin": {
 "description": "Claude Code plugin for searching and pricing branded merchandise from Social Supermarket",
@@ -87351,7 +87349,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-20T15:52:03Z",
+"pushedAt": "2026-11-23T15:20:12Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -87671,7 +87669,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-21T19:07:45Z",
+"pushedAt": "2026-11-22T21:49:11Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -87764,7 +87762,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "SpecialITWeapons/tribunal-claude-skill",
-"openGraphImageUrl": "https://opengraph.githubassets.com/ca7c96f0c39da7c3671023b245a1138dfbb978a9db56bb50b7bb54a0d677653b/SpecialITWeapons/tribunal-claude-skill",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b733df4965d2541c1f7e49346cfdf243a7ec23239d699f80f3f1e9270cd95869/SpecialITWeapons/tribunal-claude-skill",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/140384969?s=160&v=4"
 },
@@ -88032,7 +88030,7 @@
 "primaryLanguage": {
 "name": "Java"
 },
-"pushedAt": "2026-11-21T03:12:38Z",
+"pushedAt": "2026-11-23T14:06:00Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -88082,7 +88080,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "SpriteCook/claude-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/270db7cb3775b0daeb0273aa2fa98d9470fecd48d90c4160f5de0005fec56ee0/SpriteCook/claude-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/72d5651a83a091e3c233372ae050135724a7d0f97c46d056cf6aa21f1250abb1/SpriteCook/claude-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/238341045?s=160&v=4"
 },
@@ -88093,7 +88091,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 35
+"stargazerCount": 36
 },
 "spryloom/claude-plugin": {
 "description": null,
@@ -88286,7 +88284,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-19T20:56:13Z",
+"pushedAt": "2026-11-23T15:23:11Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -88328,7 +88326,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T03:21:56Z",
+"pushedAt": "2026-11-23T02:27:39Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -89491,20 +89489,20 @@
 },
 "stripe/ai": {
 "description": "One-stop shop for building AI-powered products and businesses with Stripe.",
-"forkCount": 387,
+"forkCount": 388,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "stripe/ai",
-"openGraphImageUrl": "https://opengraph.githubassets.com/1db3c2a81b585e7341e5fa9ff110e53a4db9a3e448a8b89309d22341ef8e76cc/stripe/ai",
+"openGraphImageUrl": "https://opengraph.githubassets.com/1fcfcf8fc4f9bcbb0169735328137c68292b4ae45bccfb25c88ef5db80c63bf4/stripe/ai",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/856813?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-21T01:50:03Z",
+"pushedAt": "2026-11-23T00:33:41Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -89549,7 +89547,7 @@
 }
 ]
 },
-"stargazerCount": 2076
+"stargazerCount": 2084
 },
 "stuartshields/claude-co2-status-line": {
 "description": "Status Line plugin to show the CO2 Usage on Claude CLI",
@@ -90177,7 +90175,7 @@
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "supabase-community/supabase-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/08e5c3f042b16679d8c445b3410cc064f16e9560b92d064e7b5d749e81559e41/supabase-community/supabase-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/e418b242bc9d7dd5ff792cdc37584520638ccbe09f7d58b6587104f987b6fcd8/supabase-community/supabase-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/87650496?s=160&v=4"
 },
@@ -90186,7 +90184,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 57
+"stargazerCount": 60
 },
 "supafast-tech/askairank-claude-plugin": {
 "description": "AskAiRank plugin for Claude Code and Claude Cowork: brand visibility in AI answers",
@@ -90292,13 +90290,13 @@
 },
 "superdesigndev/superdesign-skill": {
 "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
-"forkCount": 86,
+"forkCount": 87,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "superdesigndev/superdesign-skill",
-"openGraphImageUrl": "https://opengraph.githubassets.com/54862628fe09153bb6b0762f8dd86a5c7cade21f05d28708cc086f9ed51c794f/superdesigndev/superdesign-skill",
+"openGraphImageUrl": "https://opengraph.githubassets.com/bb33f0d8ea61451804879a42dc82f372a281a7f18cad11176d474da385efbff6/superdesigndev/superdesign-skill",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/217153862?s=160&v=4"
 },
@@ -90350,7 +90348,7 @@
 }
 ]
 },
-"stargazerCount": 1045
+"stargazerCount": 1055
 },
 "superdocsio/citellm-claude-plugin": {
 "description": "CiteLLM plugin for Claude: verify claims against your PDFs with highlighted evidence.",
@@ -90379,7 +90377,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "superfly/sprites-claude-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/4b673b1d16673516a3a466e3ac660465d78db3d96909dae76462966e8a3cbf05/superfly/sprites-claude-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/8eaed5a73aa223efda8541153a485c8995c9c16a808272eb461db1db90a1981d/superfly/sprites-claude-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/22525303?s=160&v=4"
 },
@@ -90431,7 +90429,7 @@
 }
 ]
 },
-"stargazerCount": 4
+"stargazerCount": 5
 },
 "supermemoryai/claude-supermemory": {
 "description": "Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemory.",
@@ -90439,18 +90437,18 @@
 "isArchived": false,
 "licenseInfo": null,
 "nameWithOwner": "supermemoryai/claude-supermemory",
-"openGraphImageUrl": "https://opengraph.githubassets.com/12f1bd24a3c682b39fab18e24c400ee74cdfaf59fff58ea7f7756866bc8decd8/supermemoryai/claude-supermemory",
+"openGraphImageUrl": "https://opengraph.githubassets.com/e1a4429afb0982bee4158d383f74727409fcb1b0e49c074e553e0c07128f18d3/supermemoryai/claude-supermemory",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/171979587?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-21T19:51:53Z",
+"pushedAt": "2026-11-23T13:04:41Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 2806
+"stargazerCount": 2805
 },
 "supermetrics-public/claude-marketing-plugin": {
 "description": "Marketing analytics plugin for Claude Code \u2014 42 workflows for performance marketers, marketing leaders, demand gen, content, field, and ecommerce teams. Built on the Supermetrics connector.",
@@ -90535,7 +90533,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-20T13:56:40Z",
+"pushedAt": "2026-11-23T13:45:18Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -90860,7 +90858,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-19T14:58:16Z",
+"pushedAt": "2026-11-22T18:55:37Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -90925,6 +90923,25 @@
 "nodes": []
 },
 "stargazerCount": 1
+},
+"swissbid/robin-claude-plugin": {
+"description": "Robin \u2014 Swiss real-estate search plugin for Claude Code and Claude Cowork.",
+"forkCount": 0,
+"isArchived": false,
+"licenseInfo": {
+"spdxId": "NOASSERTION"
+},
+"nameWithOwner": "SwissBid/robin-claude-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/037672ef532a282390674157cd950729cd72e6844250b11b834af52f245c79b2/SwissBid/robin-claude-plugin",
+"owner": {
+"avatarUrl": "https://avatars.githubusercontent.com/u/191348493?s=160&v=4"
+},
+"primaryLanguage": null,
+"pushedAt": "2026-09-30T07:49:16Z",
+"repositoryTopics": {
+"nodes": []
+},
+"stargazerCount": 0
 },
 "sydney839/deslop-claude-plugin": {
 "description": "DeSlop flyer and poster design workflow for Claude. Public integration files only.",
@@ -91366,7 +91383,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T06:45:22Z",
+"pushedAt": "2026-11-23T14:04:23Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -91802,7 +91819,7 @@
 },
 "tavily-ai/skills": {
 "description": null,
-"forkCount": 45,
+"forkCount": 44,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
@@ -91971,14 +91988,14 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "techygarg/lattice",
-"openGraphImageUrl": "https://opengraph.githubassets.com/e53c677cfc2c401897c610bf49cee8522f3e743010001b2c7cc044e0b2461b09/techygarg/lattice",
+"openGraphImageUrl": "https://opengraph.githubassets.com/e32a458d6efb0157056d13f6b76546cb0efe7f590ea2dcda25539b7c44f8c93e/techygarg/lattice",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/4545943?s=160&v=4"
 },
 "primaryLanguage": {
-"name": "JavaScript"
+"name": "Shell"
 },
-"pushedAt": "2026-11-22T11:49:20Z",
+"pushedAt": "2026-11-22T15:54:27Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -92853,7 +92870,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-09T02:09:04Z",
+"pushedAt": "2026-11-23T03:38:32Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -92983,7 +93000,7 @@
 },
 "thedotmack/claude-mem": {
 "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-"forkCount": 10340,
+"forkCount": 10358,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -92996,7 +93013,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-22T10:14:24Z",
+"pushedAt": "2026-11-23T14:30:00Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -93041,7 +93058,7 @@
 }
 ]
 },
-"stargazerCount": 118951
+"stargazerCount": 119247
 },
 "thedoublejay/please-optimize-my-claude": {
 "description": "Optimize your CLAUDE.md hierarchy \u2014 deduplicate content, detect misplacement, compress bloat, and visualize token usage across global/project/repo levels.",
@@ -93373,13 +93390,13 @@
 },
 "theqtcompanyrnd/agent-skills": {
 "description": "Official Qt AI engineering skills for Claude Code, Codex, Copilot, Gemini,and other AI coding tools",
-"forkCount": 56,
+"forkCount": 57,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "TheQtCompanyRnD/agent-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/bd19f26eeab9f81877f4a9a3f547d5d41e0d1c904687e43ec74d9e0517fc13aa/TheQtCompanyRnD/agent-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/64f4cb211bbc0621f89f6828668de395cabe41eb77dfe52a2f6112b172cfd45e/TheQtCompanyRnD/agent-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/144343050?s=160&v=4"
 },
@@ -93421,7 +93438,7 @@
 }
 ]
 },
-"stargazerCount": 556
+"stargazerCount": 562
 },
 "therealdecile/decile-plugin": {
 "description": "Claude Code plugin for Decile: MCP server + customer intelligence skills",
@@ -93631,13 +93648,13 @@
 },
 "this-hw/hiway-kit": {
 "description": "A development kit where AI agents carry a task through to production-ready code on their own; people decide only at the planning and verification gates. Listed in Anthropic's Claude plugin directory. Claude Code \u00b7 Codex \u00b7 Antigravity.",
-"forkCount": 0,
+"forkCount": 1,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "This-HW/hiway-kit",
-"openGraphImageUrl": "https://opengraph.githubassets.com/9250e72fae4e33c995b8705bf9e9387e957ffb6a71ba3fd4af60bd5988966927/This-HW/hiway-kit",
+"openGraphImageUrl": "https://opengraph.githubassets.com/1af81152c30c5b1e7cbfab549b18f4bc233155694519245e181d6a5c1edaa7fb/This-HW/hiway-kit",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/19875157?s=160&u=72da6f993e4b6df8b6c2a99b028785f539dd0544&v=4"
 },
@@ -93689,7 +93706,7 @@
 }
 ]
 },
-"stargazerCount": 5
+"stargazerCount": 6
 },
 "thomaslangbroek/frugal": {
 "description": "Cost-optimised agent router for Claude Code: sends every sub-task to the cheapest model that can do it, and escalates only on verified failure.",
@@ -93706,7 +93723,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-01T13:17:02Z",
+"pushedAt": "2026-11-23T11:44:49Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -93843,7 +93860,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/329771856?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-21T23:30:26Z",
+"pushedAt": "2026-11-23T01:32:06Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -94261,7 +94278,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "tinyfish-io/tinyfish-web-agent-integrations",
-"openGraphImageUrl": "https://opengraph.githubassets.com/32b5ac5c0a8afd305bfd0d56bd809e7239c11600222938caadffe3b8e8dd5913/tinyfish-io/tinyfish-web-agent-integrations",
+"openGraphImageUrl": "https://opengraph.githubassets.com/676d211845399bd1026685f1f03cdbe935d88949e72c1a83e6011e483ec274f1/tinyfish-io/tinyfish-web-agent-integrations",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/119996419?s=160&v=4"
 },
@@ -94313,7 +94330,7 @@
 }
 ]
 },
-"stargazerCount": 51
+"stargazerCount": 52
 },
 "tinylawn/tinylawn-plugins": {
 "description": null,
@@ -94674,7 +94691,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-18T19:28:00Z",
+"pushedAt": "2026-11-23T15:17:13Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -94994,7 +95011,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-20T11:01:00Z",
+"pushedAt": "2026-11-23T06:43:33Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -95034,7 +95051,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-20T13:55:11Z",
+"pushedAt": "2026-11-23T08:41:27Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -95453,7 +95470,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-21T14:47:30Z",
+"pushedAt": "2026-11-22T14:43:54Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -96293,7 +96310,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/257381682?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-16T13:10:50Z",
+"pushedAt": "2026-11-23T14:07:15Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -96681,7 +96698,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-21T09:12:21Z",
+"pushedAt": "2026-11-23T02:24:39Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -96840,7 +96857,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/256020465?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-21T21:59:42Z",
+"pushedAt": "2026-11-22T14:16:34Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -97279,13 +97296,13 @@
 },
 "unifapi-agent/skills": {
 "description": "Open-source marketing agents for Claude, ChatGPT, Codex, OpenClaw & Hermes. One plugin: SEO audits, GEO / AI-visibility, local SEO, KOL pricing, social listening & competitive intelligence from read-only public data over MCP.",
-"forkCount": 117,
+"forkCount": 118,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "unifapi-agent/agents",
-"openGraphImageUrl": "https://opengraph.githubassets.com/aa6a146525f6477a7ec3a5f5236c0ae5b2c40279bf1a14ab5519e144720f3806/unifapi-agent/agents",
+"openGraphImageUrl": "https://opengraph.githubassets.com/c05b3a3323dae37dc2e17cf03e98b56fb8dc41721f1bd135a31c7ac27b50cbd5/unifapi-agent/agents",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/232032595?s=160&v=4"
 },
@@ -97337,7 +97354,7 @@
 }
 ]
 },
-"stargazerCount": 621
+"stargazerCount": 622
 },
 "uniformdev/agent-skills": {
 "description": "Agent skills for building with Uniform",
@@ -97408,7 +97425,7 @@
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "Unity-Technologies/unity-agent-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/a6dfc45e02c4804f20dfdad79c2dccb7b89b8c3575acb118d56cc2510e77a74e/Unity-Technologies/unity-agent-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/fdf5372304adf20069c8d4a8db708f86d803cf2e64ee580316b074055ab216d3/Unity-Technologies/unity-agent-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/426196?s=160&v=4"
 },
@@ -97435,7 +97452,7 @@
 }
 ]
 },
-"stargazerCount": 662
+"stargazerCount": 665
 },
 "unleash/unleash-claude-skills": {
 "description": "Unleash Claude Plugin with multiple skills for enterprise feature management",
@@ -97637,7 +97654,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-20T20:16:28Z",
+"pushedAt": "2026-11-23T11:38:52Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -97686,20 +97703,20 @@
 },
 "upstash/context7": {
 "description": "Context7 Platform -- Up-to-date docs for AI agents",
-"forkCount": 3264,
+"forkCount": 3266,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "upstash/context7",
-"openGraphImageUrl": "https://opengraph.githubassets.com/fa0df8e53e4368817b1452a65d0c785a8c91cba4174d137262162bb890c0584e/upstash/context7",
+"openGraphImageUrl": "https://opengraph.githubassets.com/d8816a5a870659ba2266f81ec387ac6efdfab818b3d3da9802dc8c4deb152598/upstash/context7",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/74989412?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-22T12:44:05Z",
+"pushedAt": "2026-11-23T13:55:48Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -97724,7 +97741,7 @@
 }
 ]
 },
-"stargazerCount": 65268
+"stargazerCount": 65333
 },
 "upstash/skills": {
 "description": "Collection of skills for Upstash",
@@ -98103,7 +98120,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/282116183?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-21T19:28:45Z",
+"pushedAt": "2026-11-22T20:28:30Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -98250,7 +98267,7 @@
 }
 ]
 },
-"stargazerCount": 3
+"stargazerCount": 5
 },
 "uxkin/agent": {
 "description": "Real UI references for AI coding agents: 500,000+ screens, 15k+ website design systems with a DESIGN.md and 30k+ UI elements (MCP server), plus the free no-ui-slop and uxkin-research skills.",
@@ -98350,7 +98367,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T11:16:24Z",
+"pushedAt": "2026-11-23T12:28:55Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -98621,23 +98638,49 @@
 "stargazerCount": 1
 },
 "valsecchi75/project-scaffolder": {
-"description": "Claude Code plugin \u2014 generate a complete project knowledge base from a single brief. Wiki, skills, guardrails, handoff protocol. 3 interaction modes + Caveman token optimization.",
+"description": "Claude Code plugin: a phase-gated, multi-agent flow from first question to release tag. Brainstorm, second-brain wiki, design system and artboards, build with bug hunts, 1-100 release verification rounds, improvement and research loops, /todo notebook, secrets that never leave your machine.",
 "forkCount": 1,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "valsecchi75/project-scaffolder",
-"openGraphImageUrl": "https://opengraph.githubassets.com/560c6c4833c0817c3052e9cbdbb55a744ff612804fdd1ff04a1450d7d49776ae/valsecchi75/project-scaffolder",
+"openGraphImageUrl": "https://opengraph.githubassets.com/823aa132e81744660a91259e0f649fe46d4255778cf1f3779e323fc4f7d9a7f5/valsecchi75/project-scaffolder",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/41994105?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-08-03T17:25:42Z",
+"pushedAt": "2026-11-23T14:51:41Z",
 "repositoryTopics": {
-"nodes": []
+"nodes": [
+{
+"topic": {
+"name": "ai-agents"
+}
+},
+{
+"topic": {
+"name": "claude-code"
+}
+},
+{
+"topic": {
+"name": "claude-code-plugin"
+}
+},
+{
+"topic": {
+"name": "multi-agent"
+}
+},
+{
+"topic": {
+"name": "second-brain"
+}
+}
+]
 },
 "stargazerCount": 9
 },
@@ -99000,24 +99043,24 @@
 },
 "vercel/vercel-plugin": {
 "description": "Comprehensive Vercel ecosystem plugin \u2014 relational knowledge graph, skills for every major product, specialized agents, and Vercel conventions. Turns any AI agent into a Vercel expert.",
-"forkCount": 81,
+"forkCount": 82,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "vercel/vercel-plugin",
-"openGraphImageUrl": "https://opengraph.githubassets.com/32148ff8361cb9538df3e871222ef2c0fe5dc779a18a93794ad5072d3e0b6dca/vercel/vercel-plugin",
+"openGraphImageUrl": "https://opengraph.githubassets.com/ccd397bf63985e18c30203c4241d16e7cedfaafd2a7e97c93ced2bcbe2b39b6d/vercel/vercel-plugin",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-22T04:07:34Z",
+"pushedAt": "2026-11-23T13:07:54Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 346
+"stargazerCount": 348
 },
 "versedbcom/versedb-agent-plugin": {
 "description": "Connect Claude to VerseDB, the comic book database. Look up series, issues and key issues, check market prices, build reading orders, and manage your collection, pull list and reviews. Includes skills, agents and the VerseDB MCP. Needs VerseDB Pro.",
@@ -99155,7 +99198,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/169494772?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-19T03:59:36Z",
+"pushedAt": "2026-11-23T01:04:43Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -99391,12 +99434,12 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "video-db/skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/322fd494b332f076ea1c85c60e744621ceaecf5f9c9adeb966b1c58199386b23/video-db/skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/0eb54dc0aaf395a9a65eca8ded6330be759bf59d8c468984db8ccfd169399dc9/video-db/skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/153916972?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-21T21:18:22Z",
+"pushedAt": "2026-11-23T00:22:13Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -99441,7 +99484,7 @@
 }
 ]
 },
-"stargazerCount": 152
+"stargazerCount": 156
 },
 "viewflow/seedkit": {
 "description": "Build any Django app \u2014 from a SaaS to a dashboard to an API \u2014 from a single sentence. An agent skill that wires packages, splits dev/prod settings, and adds CI.",
@@ -99607,7 +99650,7 @@
 },
 "vincentwei1021/video-shotcraft": {
 "description": "AI video skill for Claude Code & Codex \u2014 cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
-"forkCount": 2033,
+"forkCount": 2048,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "Apache-2.0"
@@ -99620,7 +99663,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-21T15:08:04Z",
+"pushedAt": "2026-11-23T14:00:28Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -99665,7 +99708,7 @@
 }
 ]
 },
-"stargazerCount": 22051
+"stargazerCount": 22244
 },
 "vindu939/gh-file-attach-plugin": {
 "description": "A Claude Code plugin that lets Claude upload files to GitHub and get shareable URLs. Replicates GitHub's \"Attach files\" feature, powered by the official Releases API.",
@@ -99701,7 +99744,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/6368008?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-20T02:02:54Z",
+"pushedAt": "2026-11-23T00:02:01Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -99774,7 +99817,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/316956250?s=160&u=554d200752c7fa5c381fdf475de4d0d243d79d00&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-22T06:41:23Z",
+"pushedAt": "2026-11-23T08:50:11Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -100213,7 +100256,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-04T16:41:36Z",
+"pushedAt": "2026-11-22T16:10:39Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -100502,7 +100545,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-20T16:46:00Z",
+"pushedAt": "2026-11-23T03:15:08Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -100521,7 +100564,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/294051759?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-22T10:16:40Z",
+"pushedAt": "2026-11-23T10:29:12Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -100752,7 +100795,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "waitdeadai/llm-dark-patterns",
-"openGraphImageUrl": "https://opengraph.githubassets.com/a880a22802a09929d7da36042e20c63bfa8d33cb075b7ece0ba27b7efb718ed9/waitdeadai/llm-dark-patterns",
+"openGraphImageUrl": "https://opengraph.githubassets.com/51aaebe42fcfe3afd49d5b305a0493c16e73d16505e574325a3e199acc26eafe/waitdeadai/llm-dark-patterns",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/263019791?s=160&u=d2221337a51ac7eb742474b07d9c92e89bbcb5b9&v=4"
 },
@@ -100804,7 +100847,7 @@
 }
 ]
 },
-"stargazerCount": 22
+"stargazerCount": 23
 },
 "waitdeadai/searchoclock": {
 "description": "Date-aware, inter-agent error-troubleshooting hook for Claude Code (and any CLI): on a failure it researches the current durable fix from live dated sources and an independent second model validates it before it's trusted.",
@@ -101637,7 +101680,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-21T18:41:29Z",
+"pushedAt": "2026-11-23T15:40:58Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -101868,18 +101911,18 @@
 "spdxId": "NOASSERTION"
 },
 "nameWithOwner": "wisermethod/wiser",
-"openGraphImageUrl": "https://opengraph.githubassets.com/e6cd0a7b871cedb62d76e6edb80017062144fea00cff1591b05d9bcbc2411106/wisermethod/wiser",
+"openGraphImageUrl": "https://opengraph.githubassets.com/32d6dba5505f1cae7273fd38fef350cca0971d7ff45eb40a63eec9d8bc7bae59/wisermethod/wiser",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/321150754?s=160&v=4"
 },
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-21T12:45:28Z",
+"pushedAt": "2026-11-23T15:10:39Z",
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 0
+"stargazerCount": 1
 },
 "withholm/claude-tab-fix": {
 "description": "app that can be used as a pre-hook to fix tab",
@@ -101989,7 +102032,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T10:11:26Z",
+"pushedAt": "2026-11-23T15:38:54Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -102010,7 +102053,7 @@
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-19T17:05:01Z",
+"pushedAt": "2026-11-23T11:17:26Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -102874,13 +102917,13 @@
 },
 "wonderwhy-er/desktopcommandermcp": {
 "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-"forkCount": 1305,
+"forkCount": 1309,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "wonderwhy-er/DesktopCommanderMCP",
-"openGraphImageUrl": "https://opengraph.githubassets.com/f6a8352e5a608fcff8b5369426a772f31bd1dfeea3aa694ae7252c613b611da2/wonderwhy-er/DesktopCommanderMCP",
+"openGraphImageUrl": "https://opengraph.githubassets.com/b501229e792513eb82efa5226dd133f8dde9d84ca78e0a1730f94151a960a99f/wonderwhy-er/DesktopCommanderMCP",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/1150639?s=160&u=a63bab27280afb38b44ceea84590bb8ad9321c92&v=4"
 },
@@ -102932,7 +102975,7 @@
 }
 ]
 },
-"stargazerCount": 10389
+"stargazerCount": 10405
 },
 "woobox/hatchable-mcp": {
 "description": "Hosted full-stack app platform. Creates a Postgres database, deploys API functions, and serves static sites from any MCP client. OAuth 2.1 + PKCE with DCR; bearer fallback. Free tier.",
@@ -103483,7 +103526,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/83169781?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-20T17:53:29Z",
+"pushedAt": "2026-11-23T15:17:17Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -103716,7 +103759,7 @@
 "primaryLanguage": {
 "name": "Rust"
 },
-"pushedAt": "2026-11-22T10:59:31Z",
+"pushedAt": "2026-11-22T21:19:33Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -103760,20 +103803,20 @@
 },
 "wshobson/agents": {
 "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
-"forkCount": 4524,
+"forkCount": 4531,
 "isArchived": false,
 "licenseInfo": {
 "spdxId": "MIT"
 },
 "nameWithOwner": "wshobson/agents",
-"openGraphImageUrl": "https://opengraph.githubassets.com/c85302900021386a1c3ee56776a39da67f64f23110ce6ed114e1257198182d74/wshobson/agents",
+"openGraphImageUrl": "https://opengraph.githubassets.com/a3fbcdf8b6ed3852d0828059cd0e659ea2aff3fb7ef8f44157ebacb5d983f6a7/wshobson/agents",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/553618?s=160&u=260f177b1d8737e10e1e7a07a188852479771ede&v=4"
 },
 "primaryLanguage": {
 "name": "Python"
 },
-"pushedAt": "2026-11-22T10:36:29Z",
+"pushedAt": "2026-11-23T12:49:14Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -103818,7 +103861,7 @@
 }
 ]
 },
-"stargazerCount": 42786
+"stargazerCount": 42834
 },
 "wunderlandmedia/launchworthy": {
 "description": "A Claude Code skill that plays bouncer at the door of production: audits AI-built apps (Lovable, Bolt, v0, Cursor) across 5 domains and hands you a scored  punch list with copy-paste fixes. MIT.",
@@ -104731,7 +104774,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "ykdojo/paper-search",
-"openGraphImageUrl": "https://opengraph.githubassets.com/c37d66619287da7998fc270f9cdb71fa8380a808592f77853670397c355bf96d/ykdojo/paper-search",
+"openGraphImageUrl": "https://opengraph.githubassets.com/2bf6cfd1aed1641084a47493631df447a0bdfdde823a92bdaf19c8aca9d2a6d1/ykdojo/paper-search",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/1811651?s=160&u=462e0560670c4b066ee8d6ceed479f2803a518a9&v=4"
 },
@@ -104742,7 +104785,7 @@
 "repositoryTopics": {
 "nodes": []
 },
-"stargazerCount": 68
+"stargazerCount": 69
 },
 "ykdojo/superdevflow": {
 "description": "Claude Code plugin: GitHub Actions debugging, conversation cloning, context handoffs, and CLAUDE.md review",
@@ -104816,7 +104859,7 @@
 "primaryLanguage": {
 "name": "Shell"
 },
-"pushedAt": "2026-11-16T10:18:58Z",
+"pushedAt": "2026-11-23T10:21:33Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -104980,7 +105023,7 @@
 "spdxId": "MIT"
 },
 "nameWithOwner": "youdotcom-oss/agent-skills",
-"openGraphImageUrl": "https://opengraph.githubassets.com/ded1dafd317a5dc5b70ba42b7d10eadd21d17d5b58b1e81e1569fefa4eafef16/youdotcom-oss/agent-skills",
+"openGraphImageUrl": "https://opengraph.githubassets.com/d7b426383c39f39f2e1756e5bd8ba3acb1fa06bd832680a82e746567c7fed906/youdotcom-oss/agent-skills",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/229386092?s=160&v=4"
 },
@@ -105032,7 +105075,7 @@
 }
 ]
 },
-"stargazerCount": 106
+"stargazerCount": 107
 },
 "yourbeckett/beckett-for-claude": {
 "description": "Connect Claude to your beckett account",
@@ -105581,7 +105624,7 @@
 "spdxId": "Apache-2.0"
 },
 "nameWithOwner": "zeeshanhanif/agentic-sdlc-kit",
-"openGraphImageUrl": "https://opengraph.githubassets.com/c8c2a376a30c9a3a68bf7752cf2268d7523fcca6e80e082ec591407faa5927eb/zeeshanhanif/agentic-sdlc-kit",
+"openGraphImageUrl": "https://opengraph.githubassets.com/4f916afc53aec8345d55a95e4acf0c7961e9977dced0d06d872021902a302595/zeeshanhanif/agentic-sdlc-kit",
 "owner": {
 "avatarUrl": "https://avatars.githubusercontent.com/u/1311782?s=160&u=26f61652d4747efb1ad1459d5bdf1ec3b3d3ec6e&v=4"
 },
@@ -105631,7 +105674,7 @@
 }
 ]
 },
-"stargazerCount": 33
+"stargazerCount": 34
 },
 "zeglin/promptup": {
 "description": "Level up your prompt game. This plugin enhances your every prompt before it is processed by the model.",
@@ -105705,7 +105748,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/256836318?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-22T00:39:11Z",
+"pushedAt": "2026-11-22T18:55:29Z",
 "repositoryTopics": {
 "nodes": []
 },
@@ -105724,7 +105767,7 @@
 "avatarUrl": "https://avatars.githubusercontent.com/u/309802021?s=160&v=4"
 },
 "primaryLanguage": null,
-"pushedAt": "2026-11-19T00:40:01Z",
+"pushedAt": "2026-11-23T09:43:27Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -106105,7 +106148,7 @@
 "primaryLanguage": {
 "name": "JavaScript"
 },
-"pushedAt": "2026-11-22T09:40:17Z",
+"pushedAt": "2026-11-23T16:00:02Z",
 "repositoryTopics": {
 "nodes": [
 {
@@ -106321,7 +106364,7 @@
 "primaryLanguage": {
 "name": "TypeScript"
 },
-"pushedAt": "2026-11-22T12:31:40Z",
+"pushedAt": "2026-11-23T14:23:52Z",
 "repositoryTopics": {
 "nodes": [
 {
